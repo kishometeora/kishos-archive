@@ -81,7 +81,8 @@ window.onerror = function(m, s, l, c, e){ var b = document.getElementById('errbo
   var already = false;
   try { already = localStorage.getItem(UNLOCK_KEY) === "yes"; } catch(_) {}
   if (already) {
-    reveal();
+    // app.js loads after this script, so wait for it before mounting
+    window.addEventListener("load", reveal);
   } else {
     pinInput.focus();
   }
