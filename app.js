@@ -48,7 +48,8 @@ Error generating stack: `+l.message+`
         }
 
         @media (max-width: 860px) {
-          .app-layout { grid-template-columns: 1fr; }
+          .app-layout { grid-template-columns: minmax(0, 1fr); }
+          .app-layout > main { min-width: 0; }
           .mobile-filter-btn { display: flex !important; }
           .sidebar {
             position: fixed !important;
