@@ -53,7 +53,7 @@ Error generating stack: `+l.message+`
           .mobile-filter-btn { display: flex !important; }
           .sidebar {
             position: fixed !important;
-            left: 0; right: 0; bottom: 0; top: auto; height: 78dvh; width: 100%;
+            left: 0; right: 0; bottom: 0; top: auto !important; height: 78dvh; width: 100%;
             background: #14151a; z-index: 70; padding: 14px 18px 0 !important; overflow-y: auto;
             max-height: none !important; border-radius: 18px 18px 0 0;
             border-top: 1px solid #34384a;
