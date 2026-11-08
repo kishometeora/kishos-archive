@@ -73,9 +73,46 @@ window.onerror = function(m, s, l, c, e){ var b = document.getElementById('errbo
     lockScreen.style.display = "none";
     root.style.display = "block";
     if (window.__mountArchive) window.__mountArchive();
+    var reg = null;
     if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("service-worker.js").catch(function(){});
+      navigator.serviceWorker.register("service-worker.js", { updateViaCache: "none" })
+        .then(function(r){ reg = r; }).catch(function(){});
     }
+    startUpdater(function(){ return reg; });
+  }
+
+  // Update check: when the app is opened or brought back to the front (and every few
+  // minutes while open), compare the published page, code and data with what is loaded.
+  // If something changed, reload. Skipped while an item is open or being edited.
+  var updaterStarted = false;
+  function startUpdater(getReg){
+    if (updaterStarted) return;
+    updaterStarted = true;
+    var URLS = ["index.html", "app.js", "data.json"];
+    var base = null, busy = false;
+    function sig(){
+      return Promise.all(URLS.map(function(u){
+        return fetch(u + "?v=" + Date.now(), { method: "HEAD", cache: "no-store" })
+          .then(function(r){ return r.ok ? (r.headers.get("etag") || r.headers.get("last-modified") || r.headers.get("content-length") || "") : "@@x@@"; })
+          .catch(function(){ return "@@x@@"; });
+      })).then(function(a){ return a.join("|"); });
+    }
+    function check(){
+      if (busy) return;
+      busy = true;
+      var r = getReg();
+      if (r && r.update) { try { r.update(); } catch(_) {} }
+      sig().then(function(s){
+        busy = false;
+        if (s.indexOf("@@x@@") !== -1) return;           // offline or unreachable: try again later
+        if (base === null) { base = s; return; }
+        if (s !== base && !document.querySelector(".modal-card")) location.reload();
+      }, function(){ busy = false; });
+    }
+    check();
+    document.addEventListener("visibilitychange", function(){ if (document.visibilityState === "visible") check(); });
+    window.addEventListener("pageshow", function(e){ if (e.persisted) check(); });
+    setInterval(function(){ if (document.visibilityState === "visible") check(); }, 5 * 60 * 1000);
   }
 
   var already = false;

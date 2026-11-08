@@ -1,4 +1,4 @@
-const CACHE_NAME = "holocron-archive-v3";
+const CACHE_NAME = "holocron-archive-v4";
 
 self.addEventListener("install", () => { self.skipWaiting(); });
 
@@ -26,7 +26,7 @@ self.addEventListener("fetch", (event) => {
     event.respondWith(
       caches.open(CACHE_NAME).then((cache) =>
         cache.match(req).then((cached) => {
-          const network = fetch(req)
+          const network = fetch(req, { cache: "no-cache" })
             .then((res) => { if (res && res.status === 200) cache.put(req, res.clone()); return res; })
             .catch(() => cached);
           return cached || network;
@@ -39,7 +39,7 @@ self.addEventListener("fetch", (event) => {
   // Page, app code, data and manifest: always try the network first so updates arrive
   // immediately, and fall back to the saved copy when offline.
   event.respondWith(
-    fetch(req)
+    fetch(req, { cache: "no-cache" })
       .then((res) => {
         if (res && res.status === 200) {
           const copy = res.clone();
