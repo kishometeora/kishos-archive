@@ -14658,7 +14658,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9781857239393",
+  "isbn13": "9781857239393",
+  "publisher": "Little, Brown Book Group Limited",
+  "pages": 224,
+  "editionDate": "1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781857239393",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781857239393-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-10",
@@ -14696,7 +14713,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553504712",
+  "isbn13": "9780553504712",
+  "isbn10": "0553504711",
+  "publisher": "Bantam",
+  "pages": 368,
+  "editionDate": "1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504712",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504712-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-11",
@@ -14734,7 +14769,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553504729",
+  "isbn13": "9780553504729",
+  "isbn10": "055350472X",
+  "publisher": "Bantam",
+  "pages": 419,
+  "editionDate": "March 1, 1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504729",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504729-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-12",
@@ -14810,7 +14863,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1998,
+  "barcode": "9780553506037",
+  "isbn13": "9780553506037",
+  "isbn10": "055350603X",
+  "publisher": "Bantam Books",
+  "pages": 419,
+  "editionDate": "Aug 30, 1998",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506037",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506037-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-14",
@@ -14848,7 +14919,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9780553506877",
+  "isbn13": "9780553506877",
+  "isbn10": "0553506870",
+  "publisher": "Bantam",
+  "pages": 352,
+  "editionDate": "August 5, 1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506877",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-15",
@@ -14886,7 +14973,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9781857239386",
+  "isbn13": "9781857239386",
+  "isbn10": "1857239385",
+  "publisher": "Orbit",
+  "pages": 224,
+  "editionDate": "June 10, 1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781857239386",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781857239386-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-16",
@@ -14924,7 +15029,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553504132",
+  "isbn13": "9780553504132",
+  "isbn10": "0553504134",
+  "publisher": "Bantam Books",
+  "pages": 427,
+  "editionDate": "1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504132",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-17",
@@ -15000,7 +15121,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9780553578829",
+  "isbn13": "9780553578829",
+  "isbn10": "0553578820",
+  "publisher": "Bantam",
+  "pages": 401,
+  "editionDate": "1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553578829",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553578829-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-19",
@@ -15038,7 +15177,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553407587",
+  "isbn13": "9780553407587",
+  "isbn10": "0553407589",
+  "publisher": "Bantam Books",
+  "pages": 352,
+  "editionDate": "October 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553407587",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-20",
@@ -15076,7 +15231,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9780345477453",
+  "isbn13": "9780345477453",
+  "isbn10": "0345477456",
+  "publisher": "Del Rey Books",
+  "pages": 311,
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345477453",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477453-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-21",
@@ -15114,7 +15287,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553409260",
+  "isbn13": "9780553409260",
+  "isbn10": "0553409263",
+  "publisher": "Bantam",
+  "pages": 409,
+  "editionDate": "February 1, 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553409260",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409260-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-22",
@@ -15152,7 +15343,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553409239",
+  "isbn13": "9780553409239",
+  "isbn10": "0553409239",
+  "publisher": "Bantam",
+  "pages": 384,
+  "editionDate": "June 1, 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553409239",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409239-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-23",
@@ -15190,7 +15399,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553409253",
+  "isbn13": "9780553409253",
+  "isbn10": "0553409255",
+  "publisher": "Bantam",
+  "pages": 384,
+  "editionDate": "October 3, 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553409253",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409253-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-24",
@@ -15228,7 +15455,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553409246",
+  "isbn13": "9780553409246",
+  "isbn10": "0553409247",
+  "publisher": "Bantam",
+  "pages": 416,
+  "editionDate": "February 6, 1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553409246",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409246-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-25",
@@ -15266,7 +15511,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1998,
+  "barcode": "9780553505993",
+  "isbn13": "9780553505993",
+  "isbn10": "0553505998",
+  "publisher": "Bantam",
+  "pages": 419,
+  "editionDate": "March 5, 1998",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553505993",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-26",
@@ -15304,7 +15565,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1998,
+  "barcode": "9780553506006",
+  "isbn13": "9780553506006",
+  "isbn10": "0553506005",
+  "publisher": "Bantam",
+  "pages": 419,
+  "editionDate": "Aug 24, 1998",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506006",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506006-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-27",
@@ -15342,7 +15621,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9780553506051",
+  "isbn13": "9780553506051",
+  "isbn10": "0553506056",
+  "publisher": "Bantam Books Ltd",
+  "pages": 341,
+  "editionDate": "March 4, 1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506051",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506051-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-28",
@@ -15380,7 +15677,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553408072",
+  "isbn13": "9780553408072",
+  "isbn10": "0553408070",
+  "publisher": "Bantam Books",
+  "pages": 400,
+  "editionDate": "October 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408072",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408072-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-29",
@@ -15418,7 +15733,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2004,
+  "barcode": "9780099410454",
+  "isbn13": "9780099410454",
+  "isbn10": "0099410451",
+  "publisher": "Arrow Books Ltd/Century",
+  "pages": 456,
+  "editionDate": "January 1, 2004",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410454",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410454-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-30",
@@ -15456,7 +15789,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1992,
+  "barcode": "9780553404715",
+  "isbn13": "9780553404715",
+  "isbn10": "0553404717",
+  "publisher": "Bantam",
+  "pages": 398,
+  "editionDate": "1992",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553404715",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-31",
@@ -15494,7 +15843,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553404425",
+  "isbn13": "9780553404425",
+  "isbn10": "0553404423",
+  "publisher": "Bantam Books",
+  "pages": 416,
+  "editionDate": "October 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553404425",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553404425-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-32",
@@ -15532,7 +15899,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553404432",
+  "isbn13": "9780553404432",
+  "isbn10": "0553404431",
+  "publisher": "Bantam Books",
+  "pages": 419,
+  "editionDate": "October 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553404432",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553404432-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-33",
@@ -15626,7 +16011,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1994,
+  "barcode": "9780553408089",
+  "isbn13": "9780553408089",
+  "isbn10": "0553408089",
+  "publisher": "Bantam",
+  "pages": 384,
+  "editionDate": "June 30, 1994",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408089",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408089-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-35",
@@ -15664,7 +16067,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1994,
+  "barcode": "9780553408096",
+  "isbn13": "9780553408096",
+  "isbn10": "0553408097",
+  "publisher": "Bantam",
+  "pages": 368,
+  "editionDate": "August 18, 1994",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408096",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408096-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-36",
@@ -15702,7 +16123,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1994,
+  "barcode": "9780553408102",
+  "isbn13": "9780553408102",
+  "isbn10": "0553408100",
+  "publisher": "Bantam Books",
+  "pages": 359,
+  "editionDate": "1994",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408102",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408102-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-37",
@@ -15740,7 +16179,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9780553506020",
+  "isbn13": "9780553506020",
+  "isbn10": "0553506021",
+  "publisher": "Bantam Press",
+  "pages": 369,
+  "editionDate": "July 1, 1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506020",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506020-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-38",
@@ -15778,7 +16235,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553408799",
+  "isbn13": "9780553408799",
+  "isbn10": "0553408798",
+  "publisher": "Bantam Books",
+  "editionDate": "1996-05-02",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408799",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408799-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-39",
@@ -15816,7 +16290,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553408805",
+  "isbn13": "9780553408805",
+  "isbn10": "0553408801",
+  "publisher": "Bantam",
+  "pages": 430,
+  "editionDate": "1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408805",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408805-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-40",
