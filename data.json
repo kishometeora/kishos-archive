@@ -35,7 +35,25 @@
   "inUniverseDate": "~25,793 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": "2014",
+  "barcode": "9780345545053",
+  "isbn13": "9780345545053",
+  "isbn10": "0345545052",
+  "publisher": "Del Rey",
+  "pages": 352,
+  "editionDate": "Apr 1, 2014",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345545053",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345545053-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-lts-1",
@@ -1986,7 +2004,25 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "1997",
+  "barcode": "9780553505474",
+  "isbn13": "9780553505474",
+  "isbn10": "0553505475",
+  "publisher": "Bantam",
+  "pages": 419,
+  "editionDate": "Oct 30, 1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553505474",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553505474-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-img_9521",
@@ -2100,7 +2136,18 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781848563377",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848563377",
+  "barcodeNote": "Not on Open Library; publisher, pages and date unknown",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-img_9524",
@@ -3621,7 +3668,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "2024",
+  "barcode": "9781804948293",
+  "isbn13": "9781804948293",
+  "publisher": "Penguin Books",
+  "pages": 432,
+  "editionDate": "2024",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781804948293",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781804948293-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-canon-9606",
@@ -3659,7 +3723,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "2021",
+  "barcode": "9781368077194",
+  "isbn13": "9781368077194",
+  "isbn10": "1368077196",
+  "publisher": "Disney Lucasfilm Press",
+  "pages": 288,
+  "editionDate": "2021",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781368077194",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781368077194-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-canon-9607",
@@ -3925,7 +4007,25 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "2022",
+  "barcode": "9781529150100",
+  "isbn13": "9781529150100",
+  "isbn10": "1529150108",
+  "publisher": "Penguin Books",
+  "pages": 400,
+  "editionDate": "2022",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781529150100",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781529150100-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-canon-9614",
@@ -3963,7 +4063,20 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781804953211",
+  "isbn13": "9781804953211",
+  "isbn10": "1804953210",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=9781804953211",
+  "barcodeNote": "Not on Open Library; publisher, pages and date unknown",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-canon-9615",
@@ -4343,7 +4456,25 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "2015",
+  "barcode": "9780553391473",
+  "isbn13": "9780553391473",
+  "isbn10": "055339147X",
+  "publisher": "Del Rey",
+  "pages": 416,
+  "editionDate": "Mar 31, 2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553391473",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553391473-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-canon-9625",
@@ -4723,7 +4854,25 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "2016",
+  "barcode": "9781101884768",
+  "isbn13": "9781101884768",
+  "isbn10": "1101884762",
+  "publisher": "Del Rey",
+  "pages": 496,
+  "editionDate": "Jun 28, 2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781101884768",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781101884768-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-canon-9635",
@@ -5703,7 +5852,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0045496730574",
+  "country": "US",
+  "barcodeSources": [
+   "PriceCharting"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.pricecharting.com/game/gameboy/star-wars-player%27s-choice",
+  "barcodeNote": "Player's Choice reissue",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9684",
@@ -5819,7 +5980,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5051892224420",
+  "country": "UK",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=5051892224420",
+  "barcodeNote": "Smart Delivery release: the cover says both Xbox One and Xbox Series X (owner). Platform left as Xbox Series X.",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9687",
@@ -5897,7 +6070,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "3307216284703",
+  "country": "FR",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=3307216284703",
+  "barcodeNote": "Steelbook edition",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9689",
@@ -5936,7 +6122,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5030939123469",
+  "country": "UK",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=5030939123469",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9690",
@@ -6014,7 +6213,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5030947121631",
+  "country": "UK",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=5030947121631",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9692",
@@ -6092,7 +6303,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5035223122449",
+  "country": "UK",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=5035223122449",
+  "barcodeNote": "Amazon also lists Deluxe/PS4 editions near this code",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9694",
@@ -6326,7 +6549,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5030917132230",
+  "country": "UK",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=5030917132230",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9700",
@@ -6365,7 +6601,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "3296580805204",
+  "country": "FR",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=3296580805204",
+  "barcodeNote": "Single source; platform not stated by source, catalogue says Xbox 360",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9701",
@@ -6521,7 +6769,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272327507",
+  "country": "US",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=023272327507",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9705",
@@ -7028,7 +7289,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272998288",
+  "country": "US",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=023272998288",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9718",
@@ -7106,7 +7380,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272713102",
+  "country": "US",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=023272713102",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9720",
@@ -7262,7 +7549,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272003593",
+  "country": "US",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=023272003593",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-img_9724",
@@ -8687,7 +8986,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9120080076847",
+  "country": "AT",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=9120080076847",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-clone-wars-lightsaber-duels-wii",
@@ -8721,7 +9032,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272006938",
+  "country": "US",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=023272006938",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-jedi-knight-ii-jedi-outcast-gamecube",
@@ -8823,7 +9146,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272998851",
+  "country": "US",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=023272998851",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-rogue-squadron-iii-rebel-strike-gamecube",
@@ -8891,7 +9226,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272998684",
+  "country": "US",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=023272998684",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-star-wars-nes",
@@ -9095,7 +9442,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272007362",
+  "country": "US",
+  "barcodeSources": [
+   "Amazon UK",
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=023272007362",
+  "barcodeNote": "Amazon also lists the Nintendo DS version under this code; catalogue says PSP",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-battlefront-renegade-squadron-psp",
@@ -9265,7 +9625,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5028587081767",
+  "country": "UK",
+  "barcodeSources": [
+   "EAN-Search",
+   "UPCitemdb"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.upcitemdb.com/upc/5028587081767",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-episode-i-phantom-menace-playstation",
@@ -9367,7 +9740,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5030917012532",
+  "country": "UK",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=5030917012532",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-clone-wars-jedi-alliance-ds",
@@ -9401,7 +9786,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0023272005429",
+  "country": "US",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=023272005429",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "game-episode-iii-revenge-of-the-sith-ds",
@@ -9511,7 +9908,20 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2002
+  "editionYear": 2002,
+  "barcode": "5039036010603",
+  "country": "UK",
+  "barcodeSources": [
+   "Amazon UK",
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=5039036010603",
+  "barcodeNote": "Assigned to VHS by owner (the 2-disc barcode is the DVD)",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-star-wars-trilogy-vhs-vader-helmet",
@@ -9701,7 +10111,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2002
+  "editionYear": 2002,
+  "barcode": "5039036010597",
+  "country": "UK",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=5039036010597",
+  "barcodeNote": "2 discs",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-revenge-of-the-sith-dvd",
@@ -9929,7 +10351,20 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2018
+  "editionYear": 2018,
+  "barcode": "8717418523787",
+  "country": "NL",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=8717418523787",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-rogue-one-dvd",
@@ -10005,7 +10440,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2018
+  "editionYear": 2018,
+  "barcode": "8717418534363",
+  "country": "NL",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=8717418534363",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-family-guy-star-wars-trilogy-dvd",
@@ -10043,7 +10490,20 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2010
+  "editionYear": 2010,
+  "barcode": "5039036059985",
+  "country": "UK",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=5039036059985",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-rise-of-skywalker-dvd",
@@ -10251,7 +10711,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "8717418570866",
+  "country": "NL",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=8717418570866",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-a-new-hope-4k",
@@ -10493,7 +10965,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2018
+  "editionYear": 2018,
+  "barcode": "8717418534554",
+  "country": "NL",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=8717418534554",
+  "barcodeNote": "Region Free",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-rogue-one-bluray",
@@ -10531,7 +11015,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2017
+  "editionYear": 2017,
+  "barcode": "8717418500771",
+  "country": "NL",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=8717418500771",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-force-awakens-bluray-lightside",
@@ -11671,7 +12167,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2016
+  "editionYear": 2016,
+  "barcode": "8717418491260",
+  "country": "NL",
+  "barcodeSources": [
+   "EAN-Search"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=8717418491260",
+  "barcodeNote": "Season One, per owner",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-lego-freemaker-adventures-season2-dvd",
@@ -11747,7 +12255,20 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2016
+  "editionYear": 2016,
+  "barcode": "8717418476373",
+  "country": "NL",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=8717418476373",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-lego-yoda-chronicles-dvd",
@@ -12165,7 +12686,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": 2013
+  "editionYear": 2013,
+  "barcode": "5051892124133",
+  "country": "UK",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=5051892124133",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "video-clone-wars-lost-missions-season6-bluray",
@@ -12525,7 +13058,25 @@
     "label": "My photo"
    }
   ],
-  "editionYear": 2015
+  "editionYear": 2015,
+  "barcode": "0050087323295",
+  "country": "UK",
+  "publisher": "Walt Disney Records",
+  "tracks": 23,
+  "discs": 1,
+  "editionDate": "2015-12-08",
+  "barcodeSources": [
+   "MusicBrainz"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://musicbrainz.org/release/bfd68e89-4647-4c97-83d3-380da996d1eb",
+  "barcodeNote": "Barcode is shared by a Europe release (8 Dec 2015, cat. 00050087323295) and a US release (18 Dec 2015, cat. D002177202); Europe assumed. Digipak.",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://coverartarchive.org/release/bfd68e89-4647-4c97-83d3-380da996d1eb/front-250",
+  "coverCredit": "Cover: Cover Art Archive / MusicBrainz"
  },
  {
   "id": "soundtrack-figrin-dan-modal-nodes",
@@ -13005,7 +13556,20 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "5050582452952",
+  "country": "UK",
+  "barcodeSources": [
+   "EAN-Search",
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.ean-search.org/?q=5050582452952",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "audiodrama-complete-trilogy-radio-dramas",
@@ -14031,7 +14595,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "1999",
+  "barcode": "9780553506884",
+  "isbn13": "9780553506884",
+  "isbn10": "0553506889",
+  "publisher": "Bantam",
+  "pages": 419,
+  "editionDate": "Jun 3, 1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506884",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506884-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-34",
@@ -19678,7 +20260,7 @@
   "series": "",
   "creator": "Matt Forbeck",
   "year": 2016,
-  "format": "Hardcover",
+  "format": "Paperback",
   "canon": [
    "Canon"
   ],
@@ -19707,7 +20289,22 @@
   "inUniverseDate": "1 BBY",
   "status": "Not started",
   "sequenceInYear": 10,
-  "editionYear": ""
+  "editionYear": "2017",
+  "barcode": "9781405285070",
+  "isbn13": "9781405285070",
+  "publisher": "Farshore",
+  "pages": 416,
+  "editionDate": "2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285070",
+  "barcodeNote": "UK paperback (Farshore), per owner. Overrides the catalogue hardcover details.",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-batch6-49",
@@ -20571,7 +21168,24 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": "2015",
+  "barcode": "9781419711725",
+  "isbn13": "9781419711725",
+  "publisher": "Abrams",
+  "pages": 548,
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781419711725",
+  "barcodeNote": "Could be Volume One only (2015); volumes two and three are 2016",
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781419711725-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "collectible-batch6-73",
@@ -20673,7 +21287,22 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": "2024",
+  "barcode": "9781835410165",
+  "isbn13": "9781835410165",
+  "publisher": "Titan Books",
+  "pages": 156,
+  "editionDate": "2024",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781835410165",
+  "barcodeNote": "UK Titan Books edition (2024). The catalogue entry describes the US Insight Editions edition (2020).",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "ref-batch6-76",
