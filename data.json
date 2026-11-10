@@ -745,7 +745,17 @@
    }
   ],
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0070999006994",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-cod-1",
@@ -1117,7 +1127,17 @@
    }
   ],
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0050694006994",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-hardcontact-1",
@@ -2089,7 +2109,26 @@
    }
   ],
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2004,
+  "barcode": "9780345463098",
+  "isbn13": "9780345463098",
+  "isbn10": "0345463099",
+  "publisher": "Ballantine Books / Del Rey",
+  "pages": 329,
+  "editionDate": "2004",
+  "barcodeSources": [
+   "Owner (ISBN read from the book)",
+   "Open Library"
+  ],
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "High",
+  "barcodeReviewed": true,
+  "barcodeNote": "Barcode is under a sticker on this copy; ISBN confirmed by owner. First edition per Open Library.",
+  "barcodeDate": "2026-11-10",
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345463098",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345463098-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-medstar2-1",
@@ -2646,7 +2685,17 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0070999005997",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-img_9520",
@@ -2740,7 +2789,17 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0070999006994",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-img_9522",
@@ -3158,7 +3217,17 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0076783005990",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-10"
  },
  {
   "id": "novel-img_9530",
@@ -3474,7 +3543,25 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1978,
+  "isbn13": "9780345260628",
+  "isbn10": "0345260627",
+  "publisher": "Del Rey",
+  "pages": 199,
+  "editionDate": "Apr 1, 1978",
+  "barcodeSources": [
+   "Owner (ISBN typed in the book)",
+   "Open Library"
+  ],
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "High",
+  "barcodeReviewed": true,
+  "barcodeNote": "No barcode on this copy (1978 printing). ISBN is printed in the book; ISBN-13 derived from it.",
+  "barcodeDate": "2026-11-10",
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/0345260627",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345260628-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-img_9536",
