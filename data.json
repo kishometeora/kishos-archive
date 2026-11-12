@@ -13,7 +13,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 1",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-1-0.webp",
@@ -53,7 +53,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345545053-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 1,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-lts-1",
@@ -108,7 +113,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542940-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 2,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-revan-1",
@@ -161,7 +171,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781781162040",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 3,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-2",
@@ -177,7 +192,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 2",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-2-0.webp",
@@ -217,7 +232,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542650&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 4,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-3",
@@ -233,7 +253,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 3",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-3-0.webp",
@@ -273,7 +293,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780857680938-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 6,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-4",
@@ -289,7 +314,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 4",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-4-0.webp",
@@ -327,7 +352,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/id/6686212-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 5,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-5",
@@ -343,7 +373,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 5",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-5-0.webp",
@@ -378,7 +408,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.ean-search.org/?q=9781781165478",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 7,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-6",
@@ -394,7 +429,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 6",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-6-0.webp",
@@ -434,7 +469,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345522641-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 8,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-7",
@@ -450,7 +490,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 7",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-7-0.webp",
@@ -490,7 +530,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491965&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 9,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-8",
@@ -506,7 +551,7 @@
   "platform": "",
   "confidence": "High",
   "notes": "",
-  "shelfRef": "Shelf 1, pos 8",
+  "shelfRef": "",
   "images": [
    {
     "url": "images/standard/novel-8-0.webp",
@@ -544,7 +589,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477491-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 10,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-1",
@@ -714,7 +764,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542957&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 11,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-shadowhunter-1",
@@ -765,7 +820,12 @@
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/id/10893507-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 14,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-cod-1",
@@ -821,7 +881,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099439974-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 13,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-plagueis-1",
@@ -876,7 +941,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542643-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 12,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-rogueplanet-1",
@@ -932,7 +1002,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410300-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 17,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-tpm-1",
@@ -990,7 +1065,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409960-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 16,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-maullockdown-1",
@@ -1045,7 +1125,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/id/7498483-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 15,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-cestus-1",
@@ -1101,7 +1186,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345458988-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 24,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-jeditrial-1",
@@ -1149,7 +1239,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 23,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-hardcontact-1",
@@ -1205,7 +1300,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781841495248-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 22,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-shatterpoint-1",
@@ -1261,7 +1361,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410485-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 21,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-aotc-1",
@@ -1318,7 +1423,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410577-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 20,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-approachingstorm-1",
@@ -1374,7 +1484,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099446866-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 19,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-outboundflight-1",
@@ -1429,7 +1544,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099493587&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 18,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-truecolours-1",
@@ -1484,7 +1604,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781841496504-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 31,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-triplezero-1",
@@ -1539,7 +1664,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/id/212287-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 30,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-gambitsiege-1",
@@ -1594,7 +1724,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099533238&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 29,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-gambitstealth-1",
@@ -1649,7 +1784,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099533221-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 28,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-noprisoners-1",
@@ -1704,7 +1844,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099533207&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 27,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-wildspace-1",
@@ -1760,7 +1905,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099533184-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 26,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-clonewarsfilm-1",
@@ -1816,7 +1966,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099533191-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 1,
+  "locPos": 25,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-darklord-1",
@@ -1873,7 +2028,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491231-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 8,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-kenobi-1",
@@ -1928,7 +2088,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/id/8407167-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 7,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-order66-1",
@@ -1983,7 +2148,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781841496498-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 6,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-rots-1",
@@ -2039,7 +2209,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099410584&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 5,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-labyrinth-1",
@@ -2095,7 +2270,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345475732-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 4,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-yoda-1",
@@ -2152,7 +2332,12 @@
   "barcodeDate": "2026-11-10",
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345463098",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345463098-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 3,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-medstar2-1",
@@ -2208,7 +2393,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099474142-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 2,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-medstar1-1",
@@ -2264,7 +2454,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410546-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 1,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-jeditwilight-1",
@@ -2318,7 +2513,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099492092-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 10,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-501st-1",
@@ -2374,7 +2574,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542827-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 9,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-streetofshadows-1",
@@ -2429,7 +2634,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492122&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 11,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-patternsofforce-1",
@@ -2485,7 +2695,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477583-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 12,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-lastjedi-1",
@@ -2541,7 +2756,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542674-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 13,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "game-republicheroes-1",
@@ -2673,7 +2893,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553505467-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 14,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9519",
@@ -2721,7 +2946,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 15,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9520",
@@ -2777,7 +3007,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553505474-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 16,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9521",
@@ -2825,7 +3060,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 17,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9522",
@@ -2880,7 +3120,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542889-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 18,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9523",
@@ -2931,7 +3176,12 @@
   "barcodeNote": "Not on Open Library; publisher, pages and date unknown",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781848563377-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 19,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9524",
@@ -2987,7 +3237,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780857680945-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 20,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9525",
@@ -3041,7 +3296,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542834-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 21,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9526",
@@ -3095,7 +3355,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553505481",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 22,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9527",
@@ -3150,7 +3415,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491989-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 23,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9528",
@@ -3207,7 +3477,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781857239409-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 24,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9529",
@@ -3255,7 +3530,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 25,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9530",
@@ -3311,7 +3591,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345511515-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 26,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9531",
@@ -3367,7 +3652,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345511263-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 27,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9532",
@@ -3422,7 +3712,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491972&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 28,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9533",
@@ -3478,7 +3773,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345546876-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 29,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9534",
@@ -3535,7 +3835,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099493556-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 30,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9535",
@@ -3591,7 +3896,12 @@
   "barcodeDate": "2026-11-10",
   "barcodeSourceUrl": "https://openlibrary.org/isbn/0345260627",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345260628-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 31,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-img_9536",
@@ -3647,7 +3957,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099594253-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 2,
+  "locPos": 32,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-artofandor-1",
@@ -14722,7 +15037,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781857239393-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 1,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-10",
@@ -14778,7 +15098,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504712-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 2,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-11",
@@ -14834,7 +15159,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504729-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 3,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-12",
@@ -14882,7 +15212,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 4,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-13",
@@ -14938,7 +15273,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506037-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 5,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-14",
@@ -14992,7 +15332,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506877",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 6,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-15",
@@ -15048,7 +15393,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781857239386-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 7,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-16",
@@ -15102,7 +15452,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504132",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 8,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-17",
@@ -15152,7 +15507,12 @@
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/id/372797-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 9,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-18",
@@ -15208,7 +15568,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553578829-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 10,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-19",
@@ -15264,7 +15629,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553407587-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 11,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-20",
@@ -15320,7 +15690,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477453-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 12,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-21",
@@ -15376,7 +15751,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409260-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 13,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-22",
@@ -15432,7 +15812,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409239-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 14,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-23",
@@ -15488,7 +15873,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409253-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 15,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-24",
@@ -15544,7 +15934,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553409246-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 16,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-25",
@@ -15598,7 +15993,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553505993",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 17,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-26",
@@ -15654,7 +16054,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506006-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 18,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-27",
@@ -15710,7 +16115,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506051-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 19,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-28",
@@ -15766,7 +16176,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408072-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 20,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-29",
@@ -15822,7 +16237,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410454-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 21,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-30",
@@ -15878,7 +16298,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553404715-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 22,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-31",
@@ -15934,7 +16359,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553404425-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 23,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-32",
@@ -15990,7 +16420,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553404432-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 24,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-33",
@@ -16046,7 +16481,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506884-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 25,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-34",
@@ -16102,7 +16542,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408089-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 26,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-35",
@@ -16158,7 +16603,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408096-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 27,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-36",
@@ -16214,7 +16664,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408102-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 28,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-37",
@@ -16270,7 +16725,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506020-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 29,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-38",
@@ -16325,7 +16785,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408799-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 30,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-39",
@@ -16381,7 +16846,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-10",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408805-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 3,
+  "locPos": 31,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-40",
@@ -16429,7 +16899,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 29,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-41",
@@ -16481,7 +16956,12 @@
   "barcodeNote": "Not in Open Library. ISBN-10 derived from the scanned ISBN-13; matched to Before the Storm by series order on the shelf. No publisher or edition details found.",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/id/372405-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 4,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-42",
@@ -16537,7 +17017,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504798-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 5,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-43",
@@ -16593,7 +17078,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408836-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 10,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-44",
@@ -16649,7 +17139,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408812-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 8,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-45",
@@ -16705,7 +17200,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410331-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 27,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-46",
@@ -16761,7 +17261,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408782-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 3,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-47",
@@ -16817,7 +17322,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409953-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 17,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-48",
@@ -16870,7 +17380,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504804",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 6,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-49",
@@ -16926,7 +17441,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410294-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 22,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-50",
@@ -16982,7 +17502,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553812718-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 2,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-51",
@@ -17038,7 +17563,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410362-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 31,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-52",
@@ -17094,7 +17624,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409946-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 19,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-53",
@@ -17142,7 +17677,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 32,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-54",
@@ -17198,7 +17738,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410386-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 25,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-55",
@@ -17254,7 +17799,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345428745-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 30,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-56",
@@ -17310,7 +17860,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780425186848-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 16,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-57",
@@ -17366,7 +17921,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506907-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 12,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-58",
@@ -17414,7 +17974,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 26,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-59",
@@ -17470,7 +18035,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410249-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 21,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-60",
@@ -17526,7 +18096,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410287-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 23,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-61",
@@ -17581,7 +18156,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542667&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 13,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-62",
@@ -17635,7 +18215,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780425186831-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 15,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-63",
@@ -17691,7 +18276,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409977-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 20,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-64",
@@ -17747,7 +18337,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504170-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 11,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-65",
@@ -17801,7 +18396,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553505290",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 1,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-66",
@@ -17857,7 +18457,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504972-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 7,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-67",
@@ -17913,7 +18518,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410348-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 28,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-68",
@@ -17969,7 +18579,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099472636-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 14,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-69",
@@ -18025,7 +18640,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409939-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 18,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-70",
@@ -18081,7 +18701,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408829-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 9,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-71",
@@ -18137,7 +18762,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410447-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 4,
+  "locPos": 24,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-72",
@@ -18193,7 +18823,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491064-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 5,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-73",
@@ -18248,7 +18883,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492030&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 8,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-74",
@@ -18304,7 +18944,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410522-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 3,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-75",
@@ -18360,7 +19005,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410393-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 1,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-76",
@@ -18415,7 +19065,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542704&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 19,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-77",
@@ -18471,7 +19126,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542841-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 17,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-78",
@@ -18527,7 +19187,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542773-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 25,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-79",
@@ -18583,7 +19248,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477415-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 11,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-80",
@@ -18638,7 +19308,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492047&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 9,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-81",
@@ -18694,7 +19369,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099492054-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 10,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-82",
@@ -18749,7 +19429,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542728&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 20,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-83",
@@ -18804,7 +19489,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492078&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 13,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-84",
@@ -18860,7 +19550,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410430-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 2,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-85",
@@ -18915,7 +19610,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542780&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 26,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-86",
@@ -18971,7 +19671,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345511430-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 29,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-87",
@@ -19025,7 +19730,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780345511157&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 28,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-88",
@@ -19080,7 +19790,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542742&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 22,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-89",
@@ -19135,7 +19850,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542735&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 21,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-90",
@@ -19190,7 +19910,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491187&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 15,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-91",
@@ -19245,7 +19970,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542599-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 18,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-92",
@@ -19300,7 +20030,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542759&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 23,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-93",
@@ -19355,7 +20090,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542865&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 16,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-94",
@@ -19411,7 +20151,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491057-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 4,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-95",
@@ -19467,7 +20212,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099492061-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 12,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-96",
@@ -19522,7 +20272,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542797&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 27,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-97",
@@ -19578,7 +20333,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477576-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 14,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-98",
@@ -19634,7 +20394,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491071-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 6,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-99",
@@ -19689,7 +20454,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542766-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 24,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-100",
@@ -19744,7 +20514,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491163&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 5,
+  "locPos": 7,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-0",
@@ -19800,7 +20575,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845764715-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 1,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-1",
@@ -19852,7 +20632,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845764722",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 2,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-2",
@@ -19906,7 +20691,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781595829276-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 3,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-3",
@@ -19961,7 +20751,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780857689467-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 4,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-4",
@@ -20017,7 +20812,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780857684592-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 8,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-5",
@@ -20071,7 +20871,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781593079550-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 9,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-6",
@@ -20121,7 +20926,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848568433",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 10,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-7",
@@ -20174,7 +20984,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781616552510",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 11,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-8",
@@ -20229,7 +21044,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781783293513-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 12,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-9",
@@ -20284,7 +21104,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781848567085-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 22,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-10",
@@ -20337,7 +21162,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848568426",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 23,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-11",
@@ -20387,7 +21217,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780857682734",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 24,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-12",
@@ -20441,7 +21276,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780857682741-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 25,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-13",
@@ -20495,7 +21335,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781595828019-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 26,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-14",
@@ -20547,7 +21392,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848566163",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 13,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-15",
@@ -20603,7 +21453,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781616552060-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 5,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-16",
@@ -20655,7 +21510,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781783290963",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 6,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-17",
@@ -20710,7 +21570,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781783293100-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 7,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-18",
@@ -20766,7 +21631,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781593075729-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 14,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-19",
@@ -20816,7 +21686,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781845763695",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 15,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-20",
@@ -20872,7 +21747,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781593077761-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 16,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-21",
@@ -20924,7 +21804,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781595824349",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 17,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-22",
@@ -20978,7 +21863,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848562257",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 18,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-23",
@@ -21030,7 +21920,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848561786",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 19,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-24",
@@ -21080,7 +21975,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848563339",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 20,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-25",
@@ -21130,7 +22030,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848560451",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 21,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-26",
@@ -21176,7 +22081,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780241184844",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 28,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-27",
@@ -21225,7 +22135,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241249529",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 27,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch5-28",
@@ -21281,7 +22196,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780708823927-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 38,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch5-29",
@@ -21333,7 +22253,12 @@
   "barcodeReviewed": true,
   "barcodeNote": "UK Sphere paperback (yellow cover), confirmed by owner as the Special Young Readers edition. Amazon UK lists it as Star Wars by George Lucas (1977/78); no publisher or page details found.",
   "barcodeDate": "2026-11-12",
-  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780722156667"
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780722156667",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 40,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-30",
@@ -21429,7 +22354,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780722156520-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 39,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-32",
@@ -21473,7 +22403,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and the owner's identification (\"I believe\").",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 42,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "collectible-batch5-33",
@@ -21521,7 +22456,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://books.google.com/books/content?vid=ISBN9781647223816&printsec=frontcover&img=1&zoom=2",
-  "coverCredit": "Cover: Google Books"
+  "coverCredit": "Cover: Google Books",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 41,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-0",
@@ -21844,7 +22784,12 @@
   "barcodeReviewed": true,
   "barcodeNote": "The owner reports that Titan used this same code on Volumes 1 and 3, so it does not identify a volume by itself.",
   "barcodeDate": "2026-11-12",
-  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840239959"
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840239959",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 6,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-6",
@@ -21901,7 +22846,12 @@
   "barcodeReviewed": true,
   "barcodeNote": "Volume 2 confirmed by the owner.",
   "barcodeDate": "2026-11-12",
-  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840238402"
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840238402",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 7,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-7",
@@ -21958,7 +22908,12 @@
   "barcodeReviewed": true,
   "barcodeNote": "The owner reports that Titan used this same code on Volumes 1 and 3, so it does not identify a volume by itself.",
   "barcodeDate": "2026-11-12",
-  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840239959"
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840239959",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 8,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-8",
@@ -22014,7 +22969,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845761899-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 9,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-9",
@@ -22069,7 +23029,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845762759-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 10,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-10",
@@ -22124,7 +23089,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845763671-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 11,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-11",
@@ -22179,7 +23149,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845764586-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 12,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-12",
@@ -22234,7 +23209,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845764623-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 13,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-13",
@@ -22289,7 +23269,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845766580-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 14,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-14",
@@ -22344,7 +23329,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781845766597-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 15,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-15",
@@ -22400,7 +23390,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780439242042-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 16,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-16",
@@ -22448,7 +23443,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 17,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-17",
@@ -22502,7 +23502,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439012874",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 18,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-18",
@@ -22550,7 +23555,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 19,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-19",
@@ -22604,7 +23614,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439014489",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 20,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-20",
@@ -22652,7 +23667,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 21,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-21",
@@ -22700,7 +23720,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 22,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-22",
@@ -22748,7 +23773,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 30,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-23",
@@ -22796,7 +23826,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 31,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-24",
@@ -22844,7 +23879,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 32,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-25",
@@ -22892,7 +23932,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 33,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-26",
@@ -22940,7 +23985,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 34,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-27",
@@ -22988,7 +24038,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 35,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-28",
@@ -23038,7 +24093,12 @@
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Owner read the code from the book.",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/id/277266-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 36,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-29",
@@ -23088,7 +24148,12 @@
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/id/277267-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 37,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-30",
@@ -23138,7 +24203,12 @@
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/id/277268-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 38,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-31",
@@ -23186,7 +24256,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 39,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-32",
@@ -23224,7 +24299,12 @@
   "inUniverseDate": "~19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": "",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 40,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-33",
@@ -23279,7 +24359,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405283069-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 41,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-34",
@@ -23334,7 +24419,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279932-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 42,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-35",
@@ -23389,7 +24479,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279949-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 43,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-36",
@@ -23445,7 +24540,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285490-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 44,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-37",
@@ -23499,7 +24599,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279963-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 45,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-38",
@@ -23554,7 +24659,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279956-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 46,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-39",
@@ -23608,7 +24718,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285483-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 47,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-40",
@@ -23662,7 +24777,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781484714751-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 48,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-41",
@@ -23718,7 +24838,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405275811-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 49,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-42",
@@ -23773,7 +24898,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405276276-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 50,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-43",
@@ -23828,7 +24958,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277808-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 51,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-44",
@@ -23882,7 +25017,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277815-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 52,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-45",
@@ -23937,7 +25077,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285421-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 53,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-46",
@@ -23993,7 +25138,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285438-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 54,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-47",
@@ -24049,7 +25199,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285445-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 55,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-48",
@@ -24105,7 +25260,12 @@
   "barcodeDate": "2026-11-12",
   "isbn10": "1405285680",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285681-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 56,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-49",
@@ -24159,7 +25319,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277860-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 57,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-50",
@@ -24214,7 +25379,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277853-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 58,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-51",
@@ -24269,7 +25439,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277877-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 59,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-52",
@@ -24324,7 +25499,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405280518-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 60,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-53",
@@ -24379,7 +25559,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405283939-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 61,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-54",
@@ -24431,7 +25616,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405289221",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 62,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-55",
@@ -24486,7 +25676,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405286787-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 63,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-56",
@@ -24539,7 +25734,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405295420",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 64,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-57",
@@ -24595,7 +25795,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506525-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 65,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-58",
@@ -24651,7 +25856,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506532-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 66,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-59",
@@ -24707,7 +25917,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506563-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 67,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-60",
@@ -24763,7 +25978,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506570-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 68,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-61",
@@ -24862,7 +26082,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781781574003",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 74,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-63",
@@ -24960,7 +26185,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241275856",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 69,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-65",
@@ -25009,7 +26239,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241331330",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 70,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-66",
@@ -25058,7 +26293,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241357637",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 71,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-67",
@@ -25109,7 +26349,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781452159249-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 72,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-68",
@@ -25158,7 +26403,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781407164526",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 73,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-69",
@@ -25548,7 +26798,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439994958",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 25,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-1",
@@ -25596,7 +26851,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 23,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-2",
@@ -25648,7 +26908,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439992176",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 28,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-3",
@@ -25700,7 +26965,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439994965",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 26,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-4",
@@ -25756,7 +27026,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780439993241-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 29,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-5",
@@ -25804,7 +27079,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 24,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-6",
@@ -25852,7 +27132,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 27,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch8-1",
@@ -26246,7 +27531,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/id/10520978-L.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 29,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-3",
@@ -26632,7 +27922,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 37,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-8",
@@ -26678,7 +27973,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 36,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-9",
@@ -26724,7 +28024,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 35,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-10",
@@ -26770,7 +28075,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 34,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-11",
@@ -26816,7 +28126,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 33,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-12",
@@ -26862,7 +28177,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 32,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-13",
@@ -26908,7 +28228,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 31,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-14",
@@ -26954,7 +28279,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 30,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch8-16",
