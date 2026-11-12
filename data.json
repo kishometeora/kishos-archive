@@ -19697,7 +19697,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9781845764715",
+  "isbn13": "9781845764715",
+  "isbn10": "1845764714",
+  "publisher": "Titan Books Ltd",
+  "pages": 440,
+  "editionDate": "Dec 21, 2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845764715",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845764715-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-1",
@@ -19735,7 +19753,21 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2008,
+  "barcode": "9781845764722",
+  "isbn13": "9781845764722",
+  "publisher": "Titan Books Limited",
+  "editionDate": "2008",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845764722",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-2",
@@ -19773,7 +19805,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2012,
+  "barcode": "9781595829276",
+  "isbn13": "9781595829276",
+  "publisher": "Dark Horse Books",
+  "editionDate": "2012",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781595829276",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781595829276-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-3",
@@ -19811,7 +19859,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2012,
+  "barcode": "9780857689467",
+  "isbn13": "9780857689467",
+  "isbn10": "0857689460",
+  "publisher": "Titan Books Ltd",
+  "editionDate": "Apr 27, 2012",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780857689467",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780857689467-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-4",
@@ -19849,7 +19914,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2011,
+  "barcode": "9780857684592",
+  "isbn13": "9780857684592",
+  "isbn10": "0857684590",
+  "publisher": "Titan Publishing Company",
+  "pages": 408,
+  "editionDate": "May 01, 2011",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780857684592",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780857684592-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-5",
@@ -19887,7 +19970,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2008,
+  "barcode": "9781593079550",
+  "isbn13": "9781593079550",
+  "publisher": "Dark Horse Comics",
+  "editionDate": "2008",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781593079550",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781593079550-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-6",
@@ -19925,7 +20024,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781848568433",
+  "isbn13": "9781848568433",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848568433",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-7",
@@ -19963,7 +20074,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2014,
+  "barcode": "9781616552510",
+  "isbn13": "9781616552510",
+  "publisher": "Dark Horse Comics",
+  "pages": 344,
+  "editionDate": "2014",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781616552510",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-8",
@@ -20001,7 +20127,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2014,
+  "barcode": "9781783293513",
+  "isbn13": "9781783293513",
+  "publisher": "Titan Books Limited",
+  "pages": 456,
+  "editionDate": "2014",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781783293513",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781783293513-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-9",
@@ -20039,7 +20182,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9781848567085",
+  "isbn13": "9781848567085",
+  "isbn10": "1848567081",
+  "publisher": "Titan Publishing Company",
+  "editionDate": "Sep 01, 2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848567085",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781848567085-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-10",
@@ -20077,7 +20237,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9781848568426",
+  "isbn13": "9781848568426",
+  "isbn10": "1848568428",
+  "publisher": "Titan Publishing Company",
+  "editionDate": "2010-12-01",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848568426",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-11",
@@ -20115,7 +20290,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780857682734",
+  "isbn13": "9780857682734",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780857682734",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-12",
@@ -20153,7 +20340,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2011,
+  "barcode": "9780857682741",
+  "isbn13": "9780857682741",
+  "publisher": "Titan Publishing Company",
+  "editionDate": "2011",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780857682741",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780857682741-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-13",
@@ -20191,7 +20394,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2012,
+  "barcode": "9781595828019",
+  "isbn13": "9781595828019",
+  "publisher": "Dark Horse Comics",
+  "editionDate": "2012",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781595828019",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781595828019-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-14",
@@ -20229,7 +20448,21 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9781848566163",
+  "isbn13": "9781848566163",
+  "publisher": "Titan Books Limited",
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848566163",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-15",
@@ -20267,7 +20500,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2013,
+  "barcode": "9781616552060",
+  "isbn13": "9781616552060",
+  "isbn10": "1616552069",
+  "publisher": "Dark Horse",
+  "pages": 424,
+  "editionDate": "Sep 03, 2013",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781616552060",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781616552060-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-16",
@@ -20305,7 +20556,21 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2013,
+  "barcode": "9781783290963",
+  "isbn13": "9781783290963",
+  "publisher": "Titan Books Limited",
+  "editionDate": "2013",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781783290963",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-17",
@@ -20343,7 +20608,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2014,
+  "barcode": "9781783293100",
+  "isbn13": "9781783293100",
+  "isbn10": "1783293101",
+  "publisher": "Titan Books Ltd",
+  "editionDate": "2014-04-30",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781783293100",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781783293100-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-18",
@@ -20381,7 +20663,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2006,
+  "barcode": "9781593075729",
+  "isbn13": "9781593075729",
+  "isbn10": "1593075723",
+  "publisher": "Dark Horse",
+  "pages": 296,
+  "editionDate": "June 14, 2006",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781593075729",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781593075729-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-19",
@@ -20419,7 +20719,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781845763695",
+  "isbn13": "9781845763695",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781845763695",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-20",
@@ -20457,7 +20769,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9781593077761",
+  "isbn13": "9781593077761",
+  "isbn10": "1593077769",
+  "publisher": "Dark Horse",
+  "pages": 360,
+  "editionDate": "September 26, 2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781593077761",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781593077761-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch5-21",
@@ -20495,7 +20825,21 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9781595824349",
+  "isbn13": "9781595824349",
+  "publisher": "Dark Horse Books",
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781595824349",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-22",
@@ -20533,7 +20877,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2009,
+  "barcode": "9781848562257",
+  "isbn13": "9781848562257",
+  "isbn10": "184856225X",
+  "publisher": "Titan",
+  "pages": 448,
+  "editionDate": "2009-01-23",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848562257",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-23",
@@ -20571,7 +20931,21 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2009,
+  "barcode": "9781848561786",
+  "isbn13": "9781848561786",
+  "publisher": "Titan Books Limited",
+  "editionDate": "2009",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848561786",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-24",
@@ -20609,7 +20983,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781848563339",
+  "isbn13": "9781848563339",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848563339",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-25",
@@ -20647,7 +21033,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781848560451",
+  "isbn13": "9781848560451",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848560451",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-26",
@@ -20681,7 +21079,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241184844",
+  "isbn13": "9780241184844",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780241184844",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-27",
@@ -20715,7 +21125,22 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9780241249529",
+  "isbn13": "9780241249529",
+  "isbn10": "024124952X",
+  "publisher": "DK",
+  "editionDate": "2015-01-01",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241249529",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch5-28",
@@ -20753,7 +21178,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1983,
+  "barcode": "9780708823927",
+  "isbn13": "9780708823927",
+  "isbn10": "0708823920",
+  "publisher": "Macdonald & Co",
+  "pages": 192,
+  "editionDate": "December 31, 1983",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780708823927",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch5-29",
@@ -20859,7 +21300,25 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1980,
+  "barcode": "9780722156520",
+  "isbn13": "9780722156520",
+  "isbn10": "0722156529",
+  "publisher": "Sphere",
+  "pages": 277,
+  "editionDate": "1980",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780722156520",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780722156520-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "ref-batch5-32",
@@ -20927,7 +21386,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781647223816",
+  "isbn13": "9781647223816",
+  "barcodeSources": [
+   "Amazon UK"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781647223816",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-0",
@@ -24514,7 +24985,21 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781484704912",
+  "isbn13": "9781484704912",
+  "publisher": "Disney Publishing Worldwide",
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781484704912",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-3",
