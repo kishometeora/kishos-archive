@@ -21470,7 +21470,24 @@
   "inUniverseDate": "~21 BBY",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9781848564060",
+  "isbn13": "9781848564060",
+  "isbn10": "1848564066",
+  "publisher": "Titan",
+  "editionDate": "Jun 25, 2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848564060",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781848564060-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-1",
@@ -21508,7 +21525,22 @@
   "inUniverseDate": "~20 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2011,
+  "barcode": "9780857687340",
+  "isbn13": "9780857687340",
+  "isbn10": "0857687344",
+  "publisher": "Titan Publishing Company",
+  "editionDate": "2011-11-01",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780857687340",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-2",
@@ -21546,7 +21578,23 @@
   "inUniverseDate": "~21 BBY",
   "status": "Not started",
   "sequenceInYear": 3,
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9781848568525",
+  "isbn13": "9781848568525",
+  "publisher": "Titan Publishing Company",
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848568525",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781848568525-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-3",
@@ -21584,7 +21632,21 @@
   "inUniverseDate": "22 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2009,
+  "barcode": "9781848563346",
+  "isbn13": "9781848563346",
+  "publisher": "Titan Books Limited",
+  "editionDate": "2009",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848563346",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-4",
@@ -21622,7 +21684,21 @@
   "inUniverseDate": "~21-20 BBY",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9781848567092",
+  "isbn13": "9781848567092",
+  "publisher": "Titan Books Limited",
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848567092",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-5",
@@ -21660,7 +21736,25 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2004,
+  "barcode": "9781840239959",
+  "isbn13": "9781840239959",
+  "isbn10": "1840239956",
+  "publisher": "Titan Books Ltd",
+  "pages": 96,
+  "editionDate": "September 24, 2004",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840239959",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781840239959-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-6",
@@ -21698,7 +21792,25 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2004,
+  "barcode": "9781840238402",
+  "isbn13": "9781840238402",
+  "isbn10": "1840238402",
+  "publisher": "Titan Books Ltd",
+  "pages": 96,
+  "editionDate": "December 24, 2004",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840238402",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781840238402-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-7",
@@ -21774,7 +21886,25 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2005,
+  "barcode": "9781845761899",
+  "isbn13": "9781845761899",
+  "isbn10": "1845761898",
+  "publisher": "Titan Books Ltd",
+  "pages": 96,
+  "editionDate": "Mar 27, 2005",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845761899",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845761899-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-9",
@@ -21812,7 +21942,24 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2006,
+  "barcode": "9781845762759",
+  "isbn13": "9781845762759",
+  "isbn10": "1845762754",
+  "publisher": "Titan",
+  "editionDate": "2006",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845762759",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845762759-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-10",
@@ -21850,7 +21997,24 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2006,
+  "barcode": "9781845763671",
+  "isbn13": "9781845763671",
+  "isbn10": "184576367X",
+  "publisher": "Titan",
+  "editionDate": "2006",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845763671",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845763671-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-11",
@@ -21888,7 +22052,24 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9781845764586",
+  "isbn13": "9781845764586",
+  "isbn10": "1845764587",
+  "publisher": "Titan",
+  "editionDate": "2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845764586",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845764586-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-12",
@@ -21926,7 +22107,24 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9781845764623",
+  "isbn13": "9781845764623",
+  "isbn10": "1845764625",
+  "publisher": "Titan/Titan Books Ltd",
+  "editionDate": "2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845764623",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845764623-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-13",
@@ -21964,7 +22162,24 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9781845766580",
+  "isbn13": "9781845766580",
+  "isbn10": "184576658X",
+  "publisher": "Titan",
+  "editionDate": "2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845766580",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845766580-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "comic-batch6-14",
@@ -22002,7 +22217,24 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2008,
+  "barcode": "9781845766597",
+  "isbn13": "9781845766597",
+  "isbn10": "1845766598",
+  "publisher": "Titan",
+  "editionDate": "2008",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781845766597",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781845766597-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-15",
@@ -22040,7 +22272,25 @@
   "inUniverseDate": "~28 BBY (between The Phantom Menace and Attack of the Clones)",
   "status": "Not started",
   "sequenceInYear": 1,
-  "editionYear": ""
+  "editionYear": 2001,
+  "barcode": "9780439242042",
+  "isbn13": "9780439242042",
+  "isbn10": "0439242045",
+  "publisher": "Scholastic",
+  "pages": 170,
+  "editionDate": "2001",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439242042",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780439242042-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-16",
@@ -22078,7 +22328,17 @@
   "inUniverseDate": "~44 BBY",
   "status": "Not started",
   "sequenceInYear": 1,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-17",
@@ -22116,7 +22376,23 @@
   "inUniverseDate": "11 ABY",
   "status": "Not started",
   "sequenceInYear": 4,
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9780439012874",
+  "isbn13": "9780439012874",
+  "isbn10": "0439012872",
+  "publisher": "Scholastic",
+  "pages": 122,
+  "editionDate": "1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439012874",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-18",
@@ -22154,7 +22430,17 @@
   "inUniverseDate": "~44 BBY",
   "status": "Not started",
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-19",
@@ -22192,7 +22478,23 @@
   "inUniverseDate": "~44 BBY",
   "status": "Not started",
   "sequenceInYear": 3,
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780439014489",
+  "isbn13": "9780439014489",
+  "isbn10": "0439014484",
+  "publisher": "Scholastic",
+  "pages": 131,
+  "editionDate": "2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439014489",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-20",
@@ -22230,7 +22532,17 @@
   "inUniverseDate": "~44 BBY",
   "status": "Not started",
   "sequenceInYear": 4,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-21",
@@ -22268,7 +22580,17 @@
   "inUniverseDate": "~44-43 BBY",
   "status": "Not started",
   "sequenceInYear": 5,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-22",
@@ -22724,7 +23046,24 @@
   "inUniverseDate": "~18 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9781405283069",
+  "isbn13": "9781405283069",
+  "isbn10": "1405283068",
+  "publisher": "Egmont Books Ltd",
+  "editionDate": "February 25, 2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405283069",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405283069-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-34",
@@ -22762,7 +23101,24 @@
   "inUniverseDate": "~18 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9781405279932",
+  "isbn13": "9781405279932",
+  "isbn10": "1405279931",
+  "publisher": "Egmont Books Ltd",
+  "editionDate": "February 25, 2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405279932",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279932-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-35",
@@ -22800,7 +23156,24 @@
   "inUniverseDate": "~18 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9781405279949",
+  "isbn13": "9781405279949",
+  "isbn10": "140527994X",
+  "publisher": "Egmont Books Ltd",
+  "editionDate": "Feb 25, 2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405279949",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279949-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-36",
@@ -22838,7 +23211,25 @@
   "inUniverseDate": "~18 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2017,
+  "barcode": "9781405285490",
+  "isbn13": "9781405285490",
+  "isbn10": "1405285494",
+  "publisher": "Egmont Books Ltd",
+  "pages": 194,
+  "editionDate": "May 04, 2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285490",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285490-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-37",
@@ -22876,7 +23267,23 @@
   "inUniverseDate": "~18 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9781405279963",
+  "isbn13": "9781405279963",
+  "publisher": "Egmont UK Ltd",
+  "editionDate": "June 30, 2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405279963",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279963-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-38",
@@ -22914,7 +23321,24 @@
   "inUniverseDate": "~18 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9781405279956",
+  "isbn13": "9781405279956",
+  "publisher": "Egmont UK Ltd",
+  "pages": 160,
+  "editionDate": "June 30, 2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405279956",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405279956-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-39",
@@ -22952,7 +23376,23 @@
   "inUniverseDate": "~18 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2017,
+  "barcode": "9781405285483",
+  "isbn13": "9781405285483",
+  "publisher": "Egmont UK",
+  "editionDate": "March 9, 2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285483",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285483-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-40",
@@ -22990,7 +23430,23 @@
   "inUniverseDate": "~5 BBY",
   "status": "Not started",
   "sequenceInYear": 3,
-  "editionYear": ""
+  "editionYear": 2014,
+  "barcode": "9781484714751",
+  "isbn13": "9781484714751",
+  "publisher": "Disney/Disney Lucasfilm Press",
+  "editionDate": "2014",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781484714751",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781484714751-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-41",
@@ -23028,7 +23484,25 @@
   "inUniverseDate": "6–5 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2014,
+  "barcode": "9781405275811",
+  "isbn13": "9781405275811",
+  "isbn10": "1405275812",
+  "publisher": "Egmont",
+  "pages": 172,
+  "editionDate": "2014",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405275811",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405275811-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-42",
@@ -23066,7 +23540,24 @@
   "inUniverseDate": "~5 BBY",
   "status": "Not started",
   "sequenceInYear": 4,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405276276",
+  "isbn13": "9781405276276",
+  "isbn10": "1405276274",
+  "publisher": "Egmont",
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405276276",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405276276-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-43",
@@ -23104,7 +23595,24 @@
   "inUniverseDate": "4 BBY",
   "status": "Not started",
   "sequenceInYear": 1,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405277808",
+  "isbn13": "9781405277808",
+  "isbn10": "1405277807",
+  "publisher": "Egmont",
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405277808",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277808-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-44",
@@ -23142,7 +23650,23 @@
   "inUniverseDate": "4 BBY",
   "status": "Not started",
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405277815",
+  "isbn13": "9781405277815",
+  "isbn10": "1405277815",
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405277815",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277815-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-45",
@@ -23180,7 +23704,24 @@
   "inUniverseDate": "~0 BBY",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 2017,
+  "barcode": "9781405285421",
+  "isbn13": "9781405285421",
+  "isbn10": "1405285427",
+  "publisher": "Egmont UK Ltd",
+  "editionDate": "May 04, 2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285421",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285421-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-46",
@@ -23218,7 +23759,25 @@
   "inUniverseDate": "~3 BBY",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 2017,
+  "barcode": "9781405285438",
+  "isbn13": "9781405285438",
+  "isbn10": "1405285435",
+  "publisher": "Egmont Books Ltd",
+  "pages": 224,
+  "editionDate": "May 04, 2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285438",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285438-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-47",
@@ -23256,7 +23815,25 @@
   "inUniverseDate": "~4 ABY",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 2017,
+  "barcode": "9781405285445",
+  "isbn13": "9781405285445",
+  "isbn10": "1405285443",
+  "publisher": "Egmont UK Ltd",
+  "pages": 194,
+  "editionDate": "May 04, 2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285445",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285445-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-48",
@@ -23347,7 +23924,23 @@
   "inUniverseDate": "~0 ABY",
   "status": "Not started",
   "sequenceInYear": 16,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405277860",
+  "isbn13": "9781405277860",
+  "isbn10": "1405277866",
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405277860",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277860-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-50",
@@ -23385,7 +23978,24 @@
   "inUniverseDate": "~0 ABY",
   "status": "Not started",
   "sequenceInYear": 14,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405277853",
+  "isbn13": "9781405277853",
+  "isbn10": "1405277858",
+  "publisher": "Egmont",
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405277853",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277853-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-51",
@@ -23423,7 +24033,24 @@
   "inUniverseDate": "~4 ABY",
   "status": "Not started",
   "sequenceInYear": 14,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405277877",
+  "isbn13": "9781405277877",
+  "isbn10": "1405277874",
+  "publisher": "Egmont",
+  "editionDate": "2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405277877",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405277877-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-52",
@@ -23461,7 +24088,24 @@
   "inUniverseDate": "~31-34 ABY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405280518",
+  "isbn13": "9781405280518",
+  "isbn10": "1405280514",
+  "publisher": "Egmont UK Ltd",
+  "editionDate": "Dec 18, 2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405280518",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405280518-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-53",
@@ -23499,7 +24143,24 @@
   "inUniverseDate": "~34 ABY",
   "status": "Not started",
   "sequenceInYear": 4,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9781405283939",
+  "isbn13": "9781405283939",
+  "isbn10": "1405283939",
+  "publisher": "Egmont Books Ltd",
+  "editionDate": "Apr 07, 2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405283939",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405283939-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-54",
@@ -23537,7 +24198,21 @@
   "inUniverseDate": "~34 ABY",
   "status": "Not started",
   "sequenceInYear": 8,
-  "editionYear": ""
+  "editionYear": 2018,
+  "barcode": "9781405289221",
+  "isbn13": "9781405289221",
+  "publisher": "Farshore",
+  "editionDate": "2018",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405289221",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-55",
@@ -23575,7 +24250,24 @@
   "inUniverseDate": "~34 ABY",
   "status": "Not started",
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": 2017,
+  "barcode": "9781405286787",
+  "isbn13": "9781405286787",
+  "publisher": "Farshore/Egmont UK Limited",
+  "pages": 251,
+  "editionDate": "2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405286787",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405286787-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-56",
@@ -23613,7 +24305,22 @@
   "inUniverseDate": "~34 ABY",
   "status": "Not started",
   "sequenceInYear": 11,
-  "editionYear": ""
+  "editionYear": 2019,
+  "barcode": "9781405295420",
+  "isbn13": "9781405295420",
+  "publisher": "Egmont Books, Limited",
+  "pages": 224,
+  "editionDate": "2019",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405295420",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-57",
@@ -23651,7 +24358,25 @@
   "inUniverseDate": "~0-1 ABY",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553506525",
+  "isbn13": "9780553506525",
+  "isbn10": "0553506528",
+  "publisher": "Random House Children's Books",
+  "pages": 160,
+  "editionDate": "August 1, 1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506525",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506525-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-58",
@@ -23689,7 +24414,25 @@
   "inUniverseDate": "0.5 ABY",
   "status": "Not started",
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553506532",
+  "isbn13": "9780553506532",
+  "isbn10": "0553506536",
+  "publisher": "Bantam Juvenile",
+  "pages": 144,
+  "editionDate": "August 1, 1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506532",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506532-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-59",
@@ -23727,7 +24470,25 @@
   "inUniverseDate": "0.5 ABY",
   "status": "Not started",
   "sequenceInYear": 3,
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553506563",
+  "isbn13": "9780553506563",
+  "isbn10": "0553506560",
+  "publisher": "Random House Children's Books",
+  "pages": 149,
+  "editionDate": "November 1, 1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506563",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506563-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-60",
@@ -23765,7 +24526,25 @@
   "inUniverseDate": "0.5 ABY",
   "status": "Not started",
   "sequenceInYear": 4,
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553506570",
+  "isbn13": "9780553506570",
+  "isbn10": "0553506579",
+  "publisher": "Random House Children's Books",
+  "pages": 160,
+  "editionDate": "December 4, 1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506570",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506570-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "ref-batch6-61",
@@ -23799,7 +24578,24 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2015,
+  "barcode": "9781405276306",
+  "isbn13": "9781405276306",
+  "isbn10": "1405276304",
+  "publisher": "Egmont Books Ltd",
+  "editionDate": "May 07, 2015",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405276306",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405276306-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "ref-batch6-62",
@@ -23833,7 +24629,21 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9781781574003",
+  "isbn13": "9781781574003",
+  "isbn10": "1781574006",
+  "publisher": "imusti",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781781574003",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-63",
@@ -23867,7 +24677,23 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2008,
+  "barcode": "9780843132717",
+  "isbn13": "9780843132717",
+  "publisher": "Price Stern Sloan",
+  "editionDate": "2008",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780843132717",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780843132717-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "ref-batch6-64",
@@ -23901,7 +24727,21 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9780241275856",
+  "isbn13": "9780241275856",
+  "isbn10": "0241275857",
+  "editionDate": "2016-01-01",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241275856",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-65",
@@ -23935,7 +24775,22 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2019,
+  "barcode": "9780241331330",
+  "isbn13": "9780241331330",
+  "publisher": "Dorling Kindersley",
+  "pages": 96,
+  "editionDate": "2019",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241331330",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-66",
@@ -23969,7 +24824,22 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2019,
+  "barcode": "9780241357637",
+  "isbn13": "9780241357637",
+  "publisher": "Dorling Kindersley/DK",
+  "pages": 64,
+  "editionDate": "2019",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780241357637",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-67",
@@ -24003,7 +24873,24 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2017,
+  "barcode": "9781452159249",
+  "isbn13": "9781452159249",
+  "publisher": "Chronicle Books LLC",
+  "pages": 96,
+  "editionDate": "2017",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781452159249",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781452159249-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "ref-batch6-68",
@@ -24037,7 +24924,22 @@
   "inUniverseDate": "N/A",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2016,
+  "barcode": "9781407164526",
+  "isbn13": "9781407164526",
+  "publisher": "Scholastic",
+  "pages": 12,
+  "editionDate": "2016",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781407164526",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-69",
@@ -24413,7 +25315,21 @@
   "inUniverseDate": "~44 BBY, several months after the Jedi Temple attack (Obi-Wan Kenobi is 13)",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780439994958",
+  "isbn13": "9780439994958",
+  "publisher": "Scholastic",
+  "editionDate": "2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439994958",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-1",
@@ -24451,7 +25367,17 @@
   "inUniverseDate": "~44 BBY, within the continuous ~4-month arc spanning Books 1-8",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-2",
@@ -24489,7 +25415,21 @@
   "inUniverseDate": "~43 BBY, immediately following The Deadly Hunter (Obi-Wan Kenobi is 14)",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2001,
+  "barcode": "9780439992176",
+  "isbn13": "9780439992176",
+  "publisher": "Scholastic",
+  "editionDate": "2001",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439992176",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-3",
@@ -24527,7 +25467,21 @@
   "inUniverseDate": "~44 BBY (Obi-Wan Kenobi is 13)",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780439994965",
+  "isbn13": "9780439994965",
+  "publisher": "Scholastic",
+  "editionDate": "2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439994965",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-4",
@@ -24565,7 +25519,25 @@
   "inUniverseDate": "~43 BBY, immediately following The Evil Experiment (Obi-Wan Kenobi is 14)",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2001,
+  "barcode": "9780439993241",
+  "isbn13": "9780439993241",
+  "isbn10": "0439993245",
+  "publisher": "Scholastic",
+  "pages": 144,
+  "editionDate": "Mar 16, 2001",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780439993241",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780439993241-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch7-5",
@@ -24603,7 +25575,17 @@
   "inUniverseDate": "~44 BBY, at the close of the continuous ~4-month arc spanning Books 1-8",
   "status": "Not started",
   "sequenceInYear": 500,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch7-6",
@@ -24641,7 +25623,17 @@
   "inUniverseDate": "~43 BBY, around Obi-Wan Kenobi's fourteenth birthday",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (the same code appears on every book in this Scholastic series), not an ISBN. Assigned by shelf scan order: the surrounding ISBN scans (#2, #4, #9, #10, #12, #13) fix its position. Not yet confirmed by the owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch8-1",
