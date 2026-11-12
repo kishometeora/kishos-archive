@@ -16366,7 +16366,17 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0070999006994",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-41",
@@ -17067,7 +17077,17 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0070999006994",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-54",
@@ -17329,7 +17349,17 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0070999006994",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-59",
