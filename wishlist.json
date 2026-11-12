@@ -2027,42 +2027,12 @@
   "canon": ""
  },
  {
-  "id": "wish-game-super-star-wars-1992-wii",
-  "kind": "Game",
-  "type": "Wii",
-  "title": "Super Star Wars",
-  "creator": "",
-  "released": "1992-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-super-star-wars-1992-playstation-vita",
-  "kind": "Game",
-  "type": "PlayStation Vita",
-  "title": "Super Star Wars",
-  "creator": "",
-  "released": "1992-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-arcade-1993-32x",
   "kind": "Game",
   "type": "32X",
   "title": "Star Wars Arcade",
   "creator": "",
   "released": "1993-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-the-empire-strikes-back-1982-intellivision",
-  "kind": "Game",
-  "type": "Intellivision",
-  "title": "Star Wars: The Empire Strikes Back",
-  "creator": "",
-  "released": "1982-01-01",
   "when": "",
   "canon": ""
  },
@@ -2143,16 +2113,6 @@
   "title": "Star Wars: The Empire Strikes Back",
   "creator": "",
   "released": "1992-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-super-star-wars-the-empire-strikes-back-1993-wii",
-  "kind": "Game",
-  "type": "Wii",
-  "title": "Super Star Wars: The Empire Strikes Back",
-  "creator": "",
-  "released": "1993-01-01",
   "when": "",
   "canon": ""
  },
@@ -2267,39 +2227,9 @@
   "canon": ""
  },
  {
-  "id": "wish-game-super-star-wars-return-of-the-jedi-1994-wii",
-  "kind": "Game",
-  "type": "Wii",
-  "title": "Super Star Wars: Return of the Jedi",
-  "creator": "",
-  "released": "1994-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-episode-i-the-phantom-menace-1999-pc",
   "kind": "Game",
   "type": "PC",
-  "title": "Star Wars: Episode I – The Phantom Menace",
-  "creator": "",
-  "released": "1999-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-i-the-phantom-menace-1999-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
-  "title": "Star Wars: Episode I – The Phantom Menace",
-  "creator": "",
-  "released": "1999-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-i-the-phantom-menace-1999-playstation-5",
-  "kind": "Game",
-  "type": "PlayStation 5",
   "title": "Star Wars: Episode I – The Phantom Menace",
   "creator": "",
   "released": "1999-01-01",
@@ -2324,57 +2254,8 @@
   "creator": "",
   "released": "2000-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-i-jedi-power-battles-2000-nintendo-switch",
-  "kind": "Game",
-  "type": "Nintendo Switch",
-  "title": "Star Wars Episode I: Jedi Power Battles",
-  "creator": "",
-  "released": "2000-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-i-jedi-power-battles-2000-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
-  "title": "Star Wars Episode I: Jedi Power Battles",
-  "creator": "",
-  "released": "2000-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-i-jedi-power-battles-2000-playstation-5",
-  "kind": "Game",
-  "type": "PlayStation 5",
-  "title": "Star Wars Episode I: Jedi Power Battles",
-  "creator": "",
-  "released": "2000-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-i-jedi-power-battles-2000-xbox-one",
-  "kind": "Game",
-  "type": "Xbox One",
-  "title": "Star Wars Episode I: Jedi Power Battles",
-  "creator": "",
-  "released": "2000-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-i-jedi-power-battles-2000-xbox-series-x",
-  "kind": "Game",
-  "type": "Xbox Series X",
-  "title": "Star Wars Episode I: Jedi Power Battles",
-  "creator": "",
-  "released": "2000-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-episode-i-battle-for-naboo-2000-pc",
@@ -2420,16 +2301,6 @@
   "id": "wish-game-star-wars-episode-iii-revenge-of-the-sith-2005-game-boy-advance",
   "kind": "Game",
   "type": "Game Boy Advance",
-  "title": "Star Wars: Episode III – Revenge of the Sith",
-  "creator": "",
-  "released": "2005-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-episode-iii-revenge-of-the-sith-2005-playstation-3",
-  "kind": "Game",
-  "type": "PlayStation 3",
   "title": "Star Wars: Episode III – Revenge of the Sith",
   "creator": "",
   "released": "2005-01-01",
@@ -2507,29 +2378,9 @@
   "canon": ""
  },
  {
-  "id": "wish-game-star-wars-dark-forces-1995-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
-  "title": "Star Wars: Dark Forces",
-  "creator": "",
-  "released": "1995-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-dark-forces-1995-playstation-5",
   "kind": "Game",
   "type": "PlayStation 5",
-  "title": "Star Wars: Dark Forces",
-  "creator": "",
-  "released": "1995-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-dark-forces-1995-xbox-one",
-  "kind": "Game",
-  "type": "Xbox One",
   "title": "Star Wars: Dark Forces",
   "creator": "",
   "released": "1995-01-01",
@@ -2657,34 +2508,15 @@
   "canon": ""
  },
  {
-  "id": "wish-game-star-wars-episode-i-racer-1999-xbox-one",
-  "kind": "Game",
-  "type": "Xbox One",
-  "title": "Star Wars Episode I: Racer",
-  "creator": "",
-  "released": "1999-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-racer-revenge-2002-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
-  "title": "Star Wars Racer Revenge",
-  "creator": "",
-  "released": "2002-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-galactic-racer-2026-pc",
   "kind": "Game",
   "type": "PC",
   "title": "Star Wars: Galactic Racer",
   "creator": "",
-  "released": "2026-01-01",
+  "released": "2026-10-06",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-galactic-racer-2026-playstation-5",
@@ -2692,7 +2524,7 @@
   "type": "PlayStation 5",
   "title": "Star Wars: Galactic Racer",
   "creator": "",
-  "released": "2026-01-01",
+  "released": "2026-10-06",
   "when": "",
   "canon": ""
  },
@@ -2702,7 +2534,7 @@
   "type": "Xbox Series X",
   "title": "Star Wars: Galactic Racer",
   "creator": "",
-  "released": "2026-01-01",
+  "released": "2026-10-06",
   "when": "",
   "canon": ""
  },
@@ -2794,7 +2626,8 @@
   "creator": "",
   "released": "2004-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-knights-of-the-old-republic-ii-the-sith-lords-2004-nintendo-switch",
@@ -2804,7 +2637,8 @@
   "creator": "",
   "released": "2004-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-galaxies-2003-pc",
@@ -2834,7 +2668,8 @@
   "creator": "",
   "released": "2004-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-battlefront-ii-2005-playstation-2",
@@ -2850,46 +2685,6 @@
   "id": "wish-game-star-wars-battlefront-ii-2005-psp",
   "kind": "Game",
   "type": "PSP",
-  "title": "Star Wars: Battlefront II",
-  "creator": "",
-  "released": "2005-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-battlefront-ii-2005-nintendo-switch",
-  "kind": "Game",
-  "type": "Nintendo Switch",
-  "title": "Star Wars: Battlefront II",
-  "creator": "",
-  "released": "2005-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-battlefront-ii-2005-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
-  "title": "Star Wars: Battlefront II",
-  "creator": "",
-  "released": "2005-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-battlefront-ii-2005-playstation-5",
-  "kind": "Game",
-  "type": "PlayStation 5",
-  "title": "Star Wars: Battlefront II",
-  "creator": "",
-  "released": "2005-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-battlefront-ii-2005-xbox-series-x",
-  "kind": "Game",
-  "type": "Xbox Series X",
   "title": "Star Wars: Battlefront II",
   "creator": "",
   "released": "2005-01-01",
@@ -2934,7 +2729,8 @@
   "creator": "",
   "released": "2006-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-the-force-unleashed-2008-pc",
@@ -2954,7 +2750,8 @@
   "creator": "",
   "released": "2008-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-the-force-unleashed-2008-playstation-3",
@@ -3034,7 +2831,8 @@
   "creator": "",
   "released": "2009-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-the-force-unleashed-ultimate-sith-edition-2009-xbox-360",
@@ -3147,26 +2945,6 @@
   "canon": ""
  },
  {
-  "id": "wish-game-clone-wars-adventures-2010-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Clone Wars Adventures",
-  "creator": "",
-  "released": "2010-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-clone-wars-adventures-2010-mac",
-  "kind": "Game",
-  "type": "Mac",
-  "title": "Clone Wars Adventures",
-  "creator": "",
-  "released": "2010-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-jedi-fallen-order-2019-pc",
   "kind": "Game",
   "type": "PC",
@@ -3174,7 +2952,8 @@
   "creator": "",
   "released": "2019-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-jedi-fallen-order-2019-playstation-4",
@@ -3214,27 +2993,8 @@
   "creator": "",
   "released": "2023-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-jedi-survivor-2023-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
-  "title": "Star Wars Jedi: Survivor",
-  "creator": "",
-  "released": "2023-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-jedi-survivor-2023-xbox-one",
-  "kind": "Game",
-  "type": "Xbox One",
-  "title": "Star Wars Jedi: Survivor",
-  "creator": "",
-  "released": "2023-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-jedi-survivor-2023-playstation-5",
@@ -3307,49 +3067,9 @@
   "canon": ""
  },
  {
-  "id": "wish-game-star-wars-demolition-2000-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
-  "title": "Star Wars: Demolition",
-  "creator": "",
-  "released": "2000-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-demolition-2000-playstation-5",
-  "kind": "Game",
-  "type": "PlayStation 5",
-  "title": "Star Wars: Demolition",
-  "creator": "",
-  "released": "2000-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-bounty-hunter-2002-playstation-2",
   "kind": "Game",
   "type": "PlayStation 2",
-  "title": "Star Wars: Bounty Hunter",
-  "creator": "",
-  "released": "2002-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-bounty-hunter-2002-playstation-3",
-  "kind": "Game",
-  "type": "PlayStation 3",
-  "title": "Star Wars: Bounty Hunter",
-  "creator": "",
-  "released": "2002-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-bounty-hunter-2002-playstation-4",
-  "kind": "Game",
-  "type": "PlayStation 4",
   "title": "Star Wars: Bounty Hunter",
   "creator": "",
   "released": "2002-01-01",
@@ -3364,47 +3084,8 @@
   "creator": "",
   "released": "2002-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-bounty-hunter-2002-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Star Wars: Bounty Hunter",
-  "creator": "",
-  "released": "2002-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-bounty-hunter-2002-playstation-5",
-  "kind": "Game",
-  "type": "PlayStation 5",
-  "title": "Star Wars: Bounty Hunter",
-  "creator": "",
-  "released": "2002-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-bounty-hunter-2002-xbox-one",
-  "kind": "Game",
-  "type": "Xbox One",
-  "title": "Star Wars: Bounty Hunter",
-  "creator": "",
-  "released": "2002-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-bounty-hunter-2002-xbox-series-x",
-  "kind": "Game",
-  "type": "Xbox Series X",
-  "title": "Star Wars: Bounty Hunter",
-  "creator": "",
-  "released": "2002-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-republic-commando-2005-nintendo-switch",
@@ -3444,7 +3125,8 @@
   "creator": "",
   "released": "2020-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-squadrons-2020-playstation-4",
@@ -3457,16 +3139,6 @@
   "canon": ""
  },
  {
-  "id": "wish-game-star-wars-hunters-2024-nintendo-switch",
-  "kind": "Game",
-  "type": "Nintendo Switch",
-  "title": "Star Wars: Hunters",
-  "creator": "",
-  "released": "2024-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-outlaws-2024-pc",
   "kind": "Game",
   "type": "PC",
@@ -3474,7 +3146,8 @@
   "creator": "",
   "released": "2024-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-star-wars-outlaws-2024-playstation-5",
@@ -3494,7 +3167,8 @@
   "creator": "",
   "released": "2024-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "note": "Physical edition is a game-key card (needs a download)"
  },
  {
   "id": "wish-game-star-wars-zero-company-2026-playstation-5",
@@ -3517,36 +3191,6 @@
   "canon": ""
  },
  {
-  "id": "wish-game-star-wars-zero-company-2026-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Star Wars Zero Company",
-  "creator": "",
-  "released": "2026-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-vader-immortal-2019-playstation",
-  "kind": "Game",
-  "type": "PlayStation",
-  "title": "Vader Immortal",
-  "creator": "",
-  "released": "2019-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-tales-from-the-galaxy-s-edge-2020-playstation",
-  "kind": "Game",
-  "type": "PlayStation",
-  "title": "Star Wars: Tales from the Galaxy's Edge",
-  "creator": "",
-  "released": "2020-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-star-wars-chess-1993-pc",
   "kind": "Game",
   "type": "PC",
@@ -3563,16 +3207,6 @@
   "title": "Star Wars Chess",
   "creator": "",
   "released": "1993-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-monopoly-star-wars-1997-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Monopoly Star Wars",
-  "creator": "",
-  "released": "1997-01-01",
   "when": "",
   "canon": ""
  },
@@ -3647,36 +3281,6 @@
   "canon": ""
  },
  {
-  "id": "wish-game-star-wars-the-battle-for-hoth-2010-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Star Wars: The Battle for Hoth",
-  "creator": "",
-  "released": "2010-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-tiny-death-star-2013-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Star Wars: Tiny Death Star",
-  "creator": "",
-  "released": "2013-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-commander-2014-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Star Wars: Commander",
-  "creator": "",
-  "released": "2014-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-lego-star-wars-the-video-game-2005-pc",
   "kind": "Game",
   "type": "PC",
@@ -3694,7 +3298,8 @@
   "creator": "",
   "released": "2005-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-lego-star-wars-the-video-game-2005-playstation-2",
@@ -3744,7 +3349,8 @@
   "creator": "",
   "released": "2006-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-lego-star-wars-ii-the-original-trilogy-2006-playstation-2",
@@ -3814,7 +3420,8 @@
   "creator": "",
   "released": "2007-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-lego-star-wars-the-complete-saga-2007-playstation-3",
@@ -3864,7 +3471,8 @@
   "creator": "",
   "released": "2011-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-lego-star-wars-iii-the-clone-wars-2011-playstation-3",
@@ -3924,7 +3532,8 @@
   "creator": "",
   "released": "2016-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-lego-star-wars-the-force-awakens-2016-playstation-4",
@@ -4037,16 +3646,6 @@
   "canon": ""
  },
  {
-  "id": "wish-game-angry-birds-star-wars-2012-pc",
-  "kind": "Game",
-  "type": "PC",
-  "title": "Angry Birds Star Wars",
-  "creator": "",
-  "released": "2012-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-game-angry-birds-star-wars-2012-nintendo-3ds",
   "kind": "Game",
   "type": "Nintendo 3DS",
@@ -4104,7 +3703,8 @@
   "creator": "",
   "released": "2012-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-game-angry-birds-star-wars-2012-xbox-one",
@@ -4114,17 +3714,8 @@
   "creator": "",
   "released": "2012-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-game-star-wars-return-of-the-jedi-ewok-adventure-1983-atari-2600",
-  "kind": "Game",
-  "type": "Atari 2600",
-  "title": "Star Wars: Return of the Jedi – Ewok Adventure",
-  "creator": "",
-  "released": "1983-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-i-the-phantom-menace-blu-ray",
@@ -4154,7 +3745,8 @@
   "creator": "",
   "released": "1999-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-ii-attack-of-the-clones-blu-ray",
@@ -4164,7 +3756,8 @@
   "creator": "",
   "released": "2002-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-ii-attack-of-the-clones-4k-ultra-hd",
@@ -4204,7 +3797,8 @@
   "creator": "",
   "released": "1977-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-iv-a-new-hope-blu-ray",
@@ -4214,7 +3808,8 @@
   "creator": "",
   "released": "1977-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-iv-a-new-hope-4k-ultra-hd",
@@ -4234,7 +3829,8 @@
   "creator": "",
   "released": "1980-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-v-the-empire-strikes-back-blu-ray",
@@ -4244,7 +3840,8 @@
   "creator": "",
   "released": "1980-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-v-the-empire-strikes-back-4k-ultra-hd",
@@ -4264,7 +3861,8 @@
   "creator": "",
   "released": "1983-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-vi-return-of-the-jedi-blu-ray",
@@ -4274,7 +3872,8 @@
   "creator": "",
   "released": "1983-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-episode-vi-return-of-the-jedi-4k-ultra-hd",
@@ -4347,16 +3946,6 @@
   "canon": ""
  },
  {
-  "id": "wish-disc-star-wars-the-clone-wars-4k-ultra-hd",
-  "kind": "Disc",
-  "type": "4K Ultra HD",
-  "title": "Star Wars: The Clone Wars",
-  "creator": "",
-  "released": "2008-01-01",
-  "when": "",
-  "canon": ""
- },
- {
   "id": "wish-disc-star-wars-the-original-trilogy-blu-ray",
   "kind": "Disc",
   "type": "Blu-ray",
@@ -4364,17 +3953,8 @@
   "creator": "",
   "released": "2004-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-original-trilogy-4k-ultra-hd",
-  "kind": "Disc",
-  "type": "4K Ultra HD",
-  "title": "Star Wars: The Original Trilogy",
-  "creator": "",
-  "released": "2004-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-the-prequel-trilogy-blu-ray",
@@ -4384,47 +3964,8 @@
   "creator": "",
   "released": "2005-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-prequel-trilogy-4k-ultra-hd",
-  "kind": "Disc",
-  "type": "4K Ultra HD",
-  "title": "Star Wars: The Prequel Trilogy",
-  "creator": "",
-  "released": "2005-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-sequel-trilogy-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "Star Wars: The Sequel Trilogy",
-  "creator": "",
-  "released": "2019-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-sequel-trilogy-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "Star Wars: The Sequel Trilogy",
-  "creator": "",
-  "released": "2019-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-sequel-trilogy-4k-ultra-hd",
-  "kind": "Disc",
-  "type": "4K Ultra HD",
-  "title": "Star Wars: The Sequel Trilogy",
-  "creator": "",
-  "released": "2019-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-the-complete-saga-dvd",
@@ -4434,7 +3975,8 @@
   "creator": "",
   "released": "2011-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-the-skywalker-saga-complete-collection-blu-ray",
@@ -4444,23 +3986,14 @@
   "creator": "",
   "released": "2019-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-the-skywalker-saga-complete-collection-4k-ultra-hd",
   "kind": "Disc",
   "type": "4K Ultra HD",
   "title": "Star Wars: The Skywalker Saga Complete Collection",
-  "creator": "",
-  "released": "2019-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-skywalker-saga-limited-edition-collector-s-box-4k-ultra-hd",
-  "kind": "Disc",
-  "type": "4K Ultra HD",
-  "title": "Star Wars: The Skywalker Saga - Limited Edition Collector's Box",
   "creator": "",
   "released": "2019-01-01",
   "when": "",
@@ -4534,7 +4067,8 @@
   "creator": "",
   "released": "2020-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-the-clone-wars-the-final-season-season-seven-blu-ray",
@@ -4544,37 +4078,8 @@
   "creator": "",
   "released": "2020-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-clone-wars-the-final-season-season-seven-4k-ultra-hd",
-  "kind": "Disc",
-  "type": "4K Ultra HD",
-  "title": "Star Wars: The Clone Wars - The Final Season (Season Seven)",
-  "creator": "",
-  "released": "2020-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-clone-wars-the-complete-series-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "Star Wars: The Clone Wars - The Complete Series",
-  "creator": "",
-  "released": "2020-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-the-clone-wars-the-complete-series-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "Star Wars: The Clone Wars - The Complete Series",
-  "creator": "",
-  "released": "2020-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-star-wars-rebels-complete-season-one-dvd",
@@ -4611,26 +4116,6 @@
   "kind": "Disc",
   "type": "DVD",
   "title": "Star Wars Rebels - Complete Season Four",
-  "creator": "",
-  "released": "2018-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-rebels-complete-series-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "Star Wars Rebels - Complete Series",
-  "creator": "",
-  "released": "2018-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-rebels-complete-series-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "Star Wars Rebels - Complete Series",
   "creator": "",
   "released": "2018-01-01",
   "when": "",
@@ -4684,7 +4169,8 @@
   "creator": "",
   "released": "2023-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-the-mandalorian-the-complete-third-season-4k-ultra-hd",
@@ -4694,42 +4180,13 @@
   "creator": "",
   "released": "2023-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-ewoks-the-complete-animated-series-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "Star Wars: Ewoks - The Complete Animated Series",
-  "creator": "",
-  "released": "1985-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-droids-the-complete-animated-series-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "Star Wars: Droids - The Complete Animated Series",
-  "creator": "",
-  "released": "1985-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-caravan-of-courage-an-ewok-adventure-dvd",
   "kind": "Disc",
   "type": "DVD",
-  "title": "Caravan of Courage: An Ewok Adventure",
-  "creator": "",
-  "released": "1984-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-caravan-of-courage-an-ewok-adventure-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
   "title": "Caravan of Courage: An Ewok Adventure",
   "creator": "",
   "released": "1984-01-01",
@@ -4743,26 +4200,6 @@
   "title": "Ewoks: The Battle for Endor",
   "creator": "",
   "released": "1985-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-ewoks-the-battle-for-endor-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "Ewoks: The Battle for Endor",
-  "creator": "",
-  "released": "1985-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-star-wars-clone-wars-genndy-tartakovsky-complete-collection-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "Star Wars: Clone Wars (Genndy Tartakovsky) - Complete Collection",
-  "creator": "",
-  "released": "2005-01-01",
   "when": "",
   "canon": ""
  },
@@ -4794,7 +4231,8 @@
   "creator": "",
   "released": "2012-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-lego-star-wars-the-empire-strikes-out-blu-ray",
@@ -4804,27 +4242,8 @@
   "creator": "",
   "released": "2012-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-the-padawan-menace-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "LEGO Star Wars: The Padawan Menace",
-  "creator": "",
-  "released": "2011-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-the-yoda-chronicles-complete-season-one-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "LEGO Star Wars: The Yoda Chronicles - Complete Season One",
-  "creator": "",
-  "released": "2013-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-lego-star-wars-the-freemaker-adventures-complete-season-one-blu-ray",
@@ -4833,106 +4252,6 @@
   "title": "LEGO Star Wars: The Freemaker Adventures - Complete Season One",
   "creator": "",
   "released": "2016-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-the-freemaker-adventures-complete-season-two-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "LEGO Star Wars: The Freemaker Adventures - Complete Season Two",
-  "creator": "",
-  "released": "2017-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-droid-tales-vol-1-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "LEGO Star Wars: Droid Tales - Vol. 1",
-  "creator": "",
-  "released": "2015-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-holiday-special-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "LEGO Star Wars Holiday Special",
-  "creator": "",
-  "released": "2020-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-holiday-special-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "LEGO Star Wars Holiday Special",
-  "creator": "",
-  "released": "2020-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-terrifying-tales-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "LEGO Star Wars: Terrifying Tales",
-  "creator": "",
-  "released": "2021-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-terrifying-tales-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "LEGO Star Wars: Terrifying Tales",
-  "creator": "",
-  "released": "2021-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-summer-vacation-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "LEGO Star Wars Summer Vacation",
-  "creator": "",
-  "released": "2022-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-summer-vacation-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "LEGO Star Wars Summer Vacation",
-  "creator": "",
-  "released": "2022-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-rebuild-the-galaxy-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "LEGO Star Wars: Rebuild the Galaxy",
-  "creator": "",
-  "released": "2024-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-lego-star-wars-rebuild-the-galaxy-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "LEGO Star Wars: Rebuild the Galaxy",
-  "creator": "",
-  "released": "2024-01-01",
   "when": "",
   "canon": ""
  },
@@ -4953,16 +4272,6 @@
   "title": "Star Wars: Classic Creatures",
   "creator": "",
   "released": "2006-01-01",
-  "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-the-story-of-star-wars-dvd",
-  "kind": "Disc",
-  "type": "DVD",
-  "title": "The Story of Star Wars",
-  "creator": "",
-  "released": "1977-01-01",
   "when": "",
   "canon": ""
  },
@@ -5014,7 +4323,8 @@
   "creator": "",
   "released": "2023-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-ahsoka-the-complete-first-season-4k-ultra-hd",
@@ -5024,17 +4334,8 @@
   "creator": "",
   "released": "2023-01-01",
   "when": "",
-  "canon": ""
- },
- {
-  "id": "wish-disc-light-magic-blu-ray",
-  "kind": "Disc",
-  "type": "Blu-ray",
-  "title": "Light & Magic",
-  "creator": "",
-  "released": "2022-01-01",
-  "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-elstree-1976-blu-ray",
@@ -5044,7 +4345,8 @@
   "creator": "",
   "released": "2015-01-01",
   "when": "",
-  "canon": ""
+  "canon": "",
+  "phys": "unconfirmed"
  },
  {
   "id": "wish-disc-fanboys-blu-ray",
@@ -5063,6 +4365,26 @@
   "title": "Family Guy Presents: Laugh It Up, Fuzzball - The Star Wars Trilogy",
   "creator": "",
   "released": "2011-01-01",
+  "when": "",
+  "canon": ""
+ },
+ {
+  "id": "wish-disc-star-wars-the-clone-wars-seasons-1-5-collector-s-edition-dvd",
+  "kind": "Disc",
+  "type": "DVD",
+  "title": "Star Wars: The Clone Wars - Seasons 1-5 Collector's Edition",
+  "creator": "",
+  "released": "2013-01-01",
+  "when": "",
+  "canon": ""
+ },
+ {
+  "id": "wish-disc-star-wars-the-clone-wars-seasons-1-5-collector-s-edition-blu-ray",
+  "kind": "Disc",
+  "type": "Blu-ray",
+  "title": "Star Wars: The Clone Wars - Seasons 1-5 Collector's Edition",
+  "creator": "",
+  "released": "2013-01-01",
   "when": "",
   "canon": ""
  }
