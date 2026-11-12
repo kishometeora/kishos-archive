@@ -325,7 +325,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.ean-search.org/?q=9780857680921",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/id/6686212-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-5",
@@ -761,7 +763,9 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/id/10893507-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-cod-1",
@@ -1039,7 +1043,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542964",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/id/7498483-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-cestus-1",
@@ -1531,7 +1537,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781841495255",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/id/212287-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-gambitsiege-1",
@@ -1918,7 +1926,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099594246",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/id/8407167-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-order66-1",
@@ -5071,7 +5081,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.ean-search.org/?q=9781804953211",
   "barcodeNote": "Not on Open Library; publisher, pages and date unknown",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/id/15268135-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-canon-9615",
@@ -15138,7 +15150,9 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and confirmed by owner.",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/id/372797-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-18",
@@ -16465,7 +16479,9 @@
   "barcodeMatchConfidence": "High",
   "barcodeReviewed": false,
   "barcodeNote": "Not in Open Library. ISBN-10 derived from the scanned ISBN-13; matched to Before the Storm by series order on the shelf. No publisher or edition details found.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/id/372405-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-42",
@@ -23020,7 +23036,9 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": true,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Owner read the code from the book.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/id/277266-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-29",
@@ -23068,7 +23086,9 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/id/277267-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-30",
@@ -23116,7 +23136,9 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/id/277268-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-31",
@@ -26222,7 +26244,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781484704912",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/id/10520978-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch8-3",
