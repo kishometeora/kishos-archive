@@ -21266,7 +21266,17 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0070999001951",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and the owner's identification (\"I believe\").",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-31",
@@ -21352,7 +21362,17 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0048693403197",
+  "barcodeSources": [
+   "Owner (shelf order)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and the owner's identification (\"I believe\").",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "collectible-batch5-33",
@@ -25373,7 +25393,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380888",
+  "isbn13": "9780241380888",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-8",
@@ -25407,7 +25439,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380871",
+  "isbn13": "9780241380871",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-9",
@@ -25441,7 +25485,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380864",
+  "isbn13": "9780241380864",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-10",
@@ -25475,7 +25531,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380857",
+  "isbn13": "9780241380857",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-11",
@@ -25509,7 +25577,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380840",
+  "isbn13": "9780241380840",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-12",
@@ -25543,7 +25623,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380833",
+  "isbn13": "9780241380833",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-13",
@@ -25577,7 +25669,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380826",
+  "isbn13": "9780241380826",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch8-14",
@@ -25611,7 +25715,19 @@
     "label": "My photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780241380819",
+  "isbn13": "9780241380819",
+  "barcodeSources": [
+   "Owner (identification)",
+   "ISBN order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not found in any online database. Matched by the owner (LEGO Star Wars short books retelling Episodes I-VIII) and by ISBN order; publisher and edition details unknown. Likely a UK edition, which may differ from the edition photographed.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "ref-batch8-16",
