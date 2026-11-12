@@ -16404,7 +16404,19 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780553504316",
+  "isbn13": "9780553504316",
+  "isbn10": "0553504312",
+  "barcodeSources": [
+   "Owner scan (no database record)"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeNote": "Not in Open Library. ISBN-10 derived from the scanned ISBN-13; matched to Before the Storm by series order on the shelf. No publisher or edition details found.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-42",
@@ -16442,7 +16454,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1996,
+  "barcode": "9780553504798",
+  "isbn13": "9780553504798",
+  "isbn10": "0553504797",
+  "publisher": "Bantam",
+  "pages": 419,
+  "editionDate": "Aug 11, 1996",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504798",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504798-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-43",
@@ -16480,7 +16510,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1995,
+  "barcode": "9780553408836",
+  "isbn13": "9780553408836",
+  "isbn10": "0553408836",
+  "publisher": "Bantam Books Ltd",
+  "pages": 359,
+  "editionDate": "October 1, 1995",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408836",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408836-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-44",
@@ -16518,7 +16566,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1995,
+  "barcode": "9780553408812",
+  "isbn13": "9780553408812",
+  "isbn10": "055340881X",
+  "publisher": "Bantam",
+  "pages": 310,
+  "editionDate": "March 9, 1995",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408812",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408812-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-45",
@@ -16556,7 +16622,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2002,
+  "barcode": "9780099410331",
+  "isbn13": "9780099410331",
+  "isbn10": "0099410338",
+  "publisher": "Arrow Books Ltd",
+  "pages": 320,
+  "editionDate": "April 25, 2002",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410331",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410331-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-46",
@@ -16594,7 +16678,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1995,
+  "barcode": "9780553408782",
+  "isbn13": "9780553408782",
+  "isbn10": "055340878X",
+  "publisher": "Bantam/Transworld Pub/Bantam Books",
+  "pages": 352,
+  "editionDate": "1995",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408782",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408782-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-47",
@@ -16632,7 +16734,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780099409953",
+  "isbn13": "9780099409953",
+  "isbn10": "009940995X",
+  "publisher": "Arrow Books Ltd",
+  "pages": 398,
+  "editionDate": "July 6, 2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099409953",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409953-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-48",
@@ -16670,7 +16790,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553504804",
+  "isbn13": "9780553504804",
+  "isbn10": "0553504800",
+  "publisher": "Bantam Books",
+  "editionDate": "1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504804",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-49",
@@ -16708,7 +16843,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2001,
+  "barcode": "9780099410294",
+  "isbn13": "9780099410294",
+  "isbn10": "009941029X",
+  "publisher": "Arrow Books Ltd",
+  "pages": 384,
+  "editionDate": "July 5, 2001",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410294",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410294-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-50",
@@ -16746,7 +16899,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9780553812718",
+  "isbn13": "9780553812718",
+  "isbn10": "0553812718",
+  "publisher": "Bantam",
+  "pages": 320,
+  "editionDate": "September 2, 1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553812718",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553812718-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-51",
@@ -16784,7 +16955,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2003,
+  "barcode": "9780099410362",
+  "isbn13": "9780099410362",
+  "isbn10": "0099410362",
+  "publisher": "Arrow Books Ltd",
+  "pages": 432,
+  "editionDate": "February 6, 2003",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410362",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410362-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-52",
@@ -16822,7 +17011,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780099409946",
+  "isbn13": "9780099409946",
+  "isbn10": "0099409941",
+  "publisher": "Arrow Books Ltd",
+  "pages": 292,
+  "editionDate": "June 15, 2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099409946",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409946-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-53",
@@ -16898,7 +17105,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2002,
+  "barcode": "9780099410386",
+  "isbn13": "9780099410386",
+  "isbn10": "0099410389",
+  "publisher": "Arrow Books Ltd",
+  "pages": 560,
+  "editionDate": "October 3, 2002",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410386",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410386-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-55",
@@ -16936,7 +17161,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2003,
+  "barcode": "9780345428745",
+  "isbn13": "9780345428745",
+  "isbn10": "0345428749",
+  "publisher": "Del Rey",
+  "pages": 480,
+  "editionDate": "July 29, 2003",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345428745",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345428745-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-56",
@@ -16974,7 +17217,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2003,
+  "barcode": "9780425186848",
+  "isbn13": "9780425186848",
+  "isbn10": "0425186849",
+  "publisher": "Berkley Publishing Group",
+  "pages": 400,
+  "editionDate": "May 31, 2003",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780425186848",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780425186848-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-57",
@@ -17012,7 +17273,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1999,
+  "barcode": "9780553506907",
+  "isbn13": "9780553506907",
+  "isbn10": "0553506900",
+  "publisher": "Bantam",
+  "pages": 694,
+  "editionDate": "October 1, 1999",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553506907",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553506907-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-58",
@@ -17088,7 +17367,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780099410249",
+  "isbn13": "9780099410249",
+  "isbn10": "0099410249",
+  "publisher": "Arrow Books Ltd",
+  "pages": 348,
+  "editionDate": "October 19, 2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410249",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410249-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-60",
@@ -17126,7 +17423,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2001,
+  "barcode": "9780099410287",
+  "isbn13": "9780099410287",
+  "isbn10": "0099410281",
+  "publisher": "Arrow Books Ltd",
+  "pages": 302,
+  "editionDate": "April 5, 2001",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410287",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410287-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-61",
@@ -17164,7 +17479,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2012,
+  "barcode": "9780099542667",
+  "isbn13": "9780099542667",
+  "publisher": "Penguin Random House",
+  "pages": 320,
+  "editionDate": "2012",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542667",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-62",
@@ -17202,7 +17532,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2003,
+  "barcode": "9780425186831",
+  "isbn13": "9780425186831",
+  "publisher": "Berkley",
+  "editionDate": "2003",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780425186831",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780425186831-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-63",
@@ -17240,7 +17586,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780099409977",
+  "isbn13": "9780099409977",
+  "isbn10": "0099409976",
+  "publisher": "Arrow Books Ltd",
+  "pages": 352,
+  "editionDate": "August 3, 2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099409977",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409977-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-64",
@@ -17278,7 +17642,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1998,
+  "barcode": "9780553504170",
+  "isbn13": "9780553504170",
+  "isbn10": "0553504177",
+  "publisher": "Transworld Pub",
+  "pages": 416,
+  "editionDate": "Aug 31, 1998",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504170",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504170-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-65",
@@ -17316,7 +17698,23 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1998,
+  "barcode": "9780553505290",
+  "isbn13": "9780553505290",
+  "isbn10": "0553505297",
+  "publisher": "Bantam",
+  "pages": 389,
+  "editionDate": "May 1998",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553505290",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-66",
@@ -17354,7 +17752,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1997,
+  "barcode": "9780553504972",
+  "isbn13": "9780553504972",
+  "isbn10": "0553504975",
+  "publisher": "Bantam",
+  "pages": 532,
+  "editionDate": "1997",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553504972",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553504972-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-67",
@@ -17392,7 +17808,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2002,
+  "barcode": "9780099410348",
+  "isbn13": "9780099410348",
+  "isbn10": "0099410346",
+  "publisher": "Arrow Books Ltd",
+  "pages": 384,
+  "editionDate": "June 6, 2002",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "Medium",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410348",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410348-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-68",
@@ -17430,7 +17864,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2005,
+  "barcode": "9780099472636",
+  "isbn13": "9780099472636",
+  "isbn10": "0099472635",
+  "publisher": "Arrow Books Ltd",
+  "pages": 420,
+  "editionDate": "February 3, 2005",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099472636",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099472636-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-69",
@@ -17468,7 +17920,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2000,
+  "barcode": "9780099409939",
+  "isbn13": "9780099409939",
+  "isbn10": "0099409933",
+  "publisher": "Arrow Books Ltd",
+  "pages": 292,
+  "editionDate": "February 3, 2000",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099409939",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099409939-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-70",
@@ -17506,7 +17976,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 1995,
+  "barcode": "9780553408829",
+  "isbn13": "9780553408829",
+  "isbn10": "0553408828",
+  "publisher": "Bantam",
+  "pages": 289,
+  "editionDate": "July 6, 1995",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553408829",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553408829-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-71",
@@ -17544,7 +18032,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2001,
+  "barcode": "9780099410447",
+  "isbn13": "9780099410447",
+  "isbn10": "0099410443",
+  "publisher": "Arrow Books Ltd",
+  "pages": 292,
+  "editionDate": "August 23, 2001",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410447",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410447-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-72",
@@ -17582,7 +18088,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2005,
+  "barcode": "9780099491064",
+  "isbn13": "9780099491064",
+  "isbn10": "0099491060",
+  "publisher": "ARROW (RAND)",
+  "pages": 368,
+  "editionDate": "October 6, 2005",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491064",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491064-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-73",
@@ -17620,7 +18144,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2006,
+  "barcode": "9780099492030",
+  "isbn13": "9780099492030",
+  "publisher": "Penguin Random House",
+  "pages": 416,
+  "editionDate": "2006",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492030",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-74",
@@ -17658,7 +18197,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2004,
+  "barcode": "9780099410522",
+  "isbn13": "9780099410522",
+  "isbn10": "0099410524",
+  "publisher": "Arrow Books Ltd",
+  "pages": 576,
+  "editionDate": "August 5, 2004",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410522",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410522-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-75",
@@ -17696,7 +18253,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2003,
+  "barcode": "9780099410393",
+  "isbn13": "9780099410393",
+  "isbn10": "0099410397",
+  "publisher": "Arrow Books Ltd",
+  "pages": 532,
+  "editionDate": "July 3, 2003",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410393",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410393-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-76",
@@ -17734,7 +18309,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9780099542704",
+  "isbn13": "9780099542704",
+  "publisher": "Penguin Random House",
+  "pages": 384,
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542704",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-77",
@@ -17772,7 +18362,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2011,
+  "barcode": "9780099542841",
+  "isbn13": "9780099542841",
+  "isbn10": "0099542846",
+  "publisher": "Arrow",
+  "pages": 304,
+  "editionDate": "Oct 01, 2011",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542841",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542841-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-78",
@@ -17810,7 +18418,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2012,
+  "barcode": "9780099542773",
+  "isbn13": "9780099542773",
+  "isbn10": "0099542773",
+  "publisher": "Arrow",
+  "pages": 400,
+  "editionDate": "Aug 01, 2012",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542773",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542773-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-79",
@@ -17848,7 +18474,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2008,
+  "barcode": "9780345477415",
+  "isbn13": "9780345477415",
+  "isbn10": "0345477413",
+  "publisher": "Del Rey",
+  "pages": 512,
+  "editionDate": "April 29, 2008",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345477415",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477415-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-80",
@@ -17886,7 +18530,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2006,
+  "barcode": "9780099492047",
+  "isbn13": "9780099492047",
+  "publisher": "Penguin Random House",
+  "pages": 416,
+  "editionDate": "2006",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492047",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-81",
@@ -17924,7 +18583,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9780099492054",
+  "isbn13": "9780099492054",
+  "isbn10": "0099492059",
+  "publisher": "Arrow",
+  "pages": 368,
+  "editionDate": "Mar 01, 2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492054",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099492054-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-82",
@@ -17962,7 +18639,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9780099542728",
+  "isbn13": "9780099542728",
+  "publisher": "Penguin Random House",
+  "pages": 304,
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542728",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-83",
@@ -18000,7 +18692,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2008,
+  "barcode": "9780099492078",
+  "isbn13": "9780099492078",
+  "publisher": "Penguin Random House",
+  "pages": 384,
+  "editionDate": "2008",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492078",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-84",
@@ -18038,7 +18745,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2003,
+  "barcode": "9780099410430",
+  "isbn13": "9780099410430",
+  "isbn10": "0099410435",
+  "publisher": "Arrow Books Ltd",
+  "pages": 320,
+  "editionDate": "October 2, 2003",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410430",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099410430-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-85",
@@ -18076,7 +18801,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2012,
+  "barcode": "9780099542780",
+  "isbn13": "9780099542780",
+  "publisher": "Penguin Random House",
+  "pages": 512,
+  "editionDate": "2012",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542780",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-86",
@@ -18114,7 +18854,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2014,
+  "barcode": "9780345511430",
+  "isbn13": "9780345511430",
+  "isbn10": "0345511433",
+  "publisher": "Del Rey",
+  "pages": 400,
+  "editionDate": "Jul 01, 2014",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345511430",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345511430-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-87",
@@ -18152,7 +18910,21 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2013,
+  "barcode": "9780345511157",
+  "isbn13": "9780345511157",
+  "publisher": "Random House Publishing Group",
+  "editionDate": "2013",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345511157",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-88",
@@ -18190,7 +18962,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2011,
+  "barcode": "9780099542742",
+  "isbn13": "9780099542742",
+  "publisher": "Penguin Random House",
+  "pages": 384,
+  "editionDate": "2011",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542742",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-89",
@@ -18228,7 +19015,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9780099542735",
+  "isbn13": "9780099542735",
+  "publisher": "Penguin Random House",
+  "pages": 400,
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542735",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-90",
@@ -18266,7 +19068,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2009,
+  "barcode": "9780099491187",
+  "isbn13": "9780099491187",
+  "publisher": "Penguin Random House",
+  "pages": 368,
+  "editionDate": "2009",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491187",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-91",
@@ -18304,7 +19121,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2009,
+  "barcode": "9780099542599",
+  "isbn13": "9780099542599",
+  "publisher": "Penguin Random House",
+  "pages": 384,
+  "editionDate": "2009",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542599",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542599-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-92",
@@ -18342,7 +19176,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2011,
+  "barcode": "9780099542759",
+  "isbn13": "9780099542759",
+  "publisher": "Penguin Random House",
+  "pages": 448,
+  "editionDate": "2011",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542759",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-93",
@@ -18380,7 +19229,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2010,
+  "barcode": "9780099542865",
+  "isbn13": "9780099542865",
+  "publisher": "Penguin Random House",
+  "pages": 352,
+  "editionDate": "2010",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542865",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-94",
@@ -18418,7 +19282,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2005,
+  "barcode": "9780099491057",
+  "isbn13": "9780099491057",
+  "isbn10": "0099491052",
+  "publisher": "ARROW (RAND)/Arrow",
+  "pages": 544,
+  "editionDate": "August 4, 2005",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491057",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491057-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-95",
@@ -18456,7 +19338,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9780099492061",
+  "isbn13": "9780099492061",
+  "isbn10": "0099492067",
+  "publisher": "Arrow Books/Arrow",
+  "pages": 336,
+  "editionDate": "Oct 04, 2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492061",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099492061-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-96",
@@ -18494,7 +19394,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2013,
+  "barcode": "9780099542797",
+  "isbn13": "9780099542797",
+  "publisher": "Penguin Random House",
+  "pages": 560,
+  "editionDate": "2013",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542797",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-97",
@@ -18532,7 +19447,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2008,
+  "barcode": "9780345477576",
+  "isbn13": "9780345477576",
+  "isbn10": "034547757X",
+  "publisher": "Del Rey/Lucas Books",
+  "pages": 416,
+  "editionDate": "February 26, 2008",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345477576",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780345477576-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-98",
@@ -18570,7 +19503,25 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2006,
+  "barcode": "9780099491071",
+  "isbn13": "9780099491071",
+  "isbn10": "0099491079",
+  "publisher": "ARROW (RAND)",
+  "pages": 384,
+  "editionDate": "January 5, 2006",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491071",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099491071-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-99",
@@ -18608,7 +19559,24 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2012,
+  "barcode": "9780099542766",
+  "isbn13": "9780099542766",
+  "isbn10": "0099542765",
+  "publisher": "Arrow",
+  "editionDate": "Apr 01, 2012",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542766",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780099542766-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-100",
@@ -18646,7 +19614,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": 2007,
+  "barcode": "9780099491163",
+  "isbn13": "9780099491163",
+  "publisher": "Penguin Random House",
+  "pages": 496,
+  "editionDate": "2007",
+  "barcodeSources": [
+   "Open Library"
+  ],
+  "barcodeConfidence": "High",
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeReviewed": false,
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491163",
+  "barcodeNote": "",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "comic-batch5-0",
