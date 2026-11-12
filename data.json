@@ -5677,7 +5677,22 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "2017",
+  "barcode": "9781405285070",
+  "isbn13": "9781405285070",
+  "publisher": "Farshore",
+  "pages": 416,
+  "barcodeSources": [
+   "Open Library",
+   "Owner (elimination)"
+  ],
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Open Library lists this code as \"Rogue One YA Character Novel\" (Farshore, 2017). Assigned to the adult novelization by elimination: the owner has both the adult and junior novelizations, and the junior one is 9781405285681. Please check the cover.",
+  "barcodeDate": "2026-11-12",
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285070"
  },
  {
   "id": "novel-canon-9631",
@@ -22628,7 +22643,17 @@
   "inUniverseDate": "27 BBY",
   "status": "Not started",
   "sequenceInYear": 1,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-23",
@@ -22666,7 +22691,17 @@
   "inUniverseDate": "27 BBY",
   "status": "Not started",
   "sequenceInYear": 3,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-24",
@@ -22704,7 +22739,17 @@
   "inUniverseDate": "27 BBY",
   "status": "Not started",
   "sequenceInYear": 4,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-25",
@@ -22742,7 +22787,17 @@
   "inUniverseDate": "25 BBY",
   "status": "Not started",
   "sequenceInYear": 1,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-26",
@@ -22780,7 +22835,17 @@
   "inUniverseDate": "25 BBY",
   "status": "Not started",
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-27",
@@ -22818,7 +22883,17 @@
   "inUniverseDate": "25 BBY",
   "status": "Not started",
   "sequenceInYear": 3,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-28",
@@ -22894,7 +22969,17 @@
   "inUniverseDate": "24 BBY",
   "status": "Not started",
   "sequenceInYear": 1,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073005994",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-30",
@@ -22932,7 +23017,17 @@
   "inUniverseDate": "~24 BBY",
   "status": "Not started",
   "sequenceInYear": 2,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073005994",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-31",
@@ -22970,7 +23065,17 @@
   "inUniverseDate": "23 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073005994",
+  "barcodeSources": [
+   "Scan order"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "Medium",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": false,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-32",
@@ -23872,11 +23977,11 @@
   "status": "Not started",
   "sequenceInYear": 10,
   "editionYear": "2017",
-  "barcode": "9781405285070",
-  "isbn13": "9781405285070",
-  "publisher": "Farshore",
-  "pages": 416,
-  "editionDate": "2017",
+  "barcode": "9781405285681",
+  "isbn13": "9781405285681",
+  "publisher": "Egmont Books Ltd",
+  "pages": 194,
+  "editionDate": "Mar 17, 2017",
   "barcodeSources": [
    "Open Library"
   ],
@@ -23884,9 +23989,12 @@
   "barcodeIdConfidence": "High",
   "barcodeMatchConfidence": "High",
   "barcodeReviewed": false,
-  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285070",
-  "barcodeNote": "UK paperback (Farshore), per owner. Overrides the catalogue hardcover details.",
-  "barcodeDate": "2026-11-10"
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781405285681",
+  "barcodeNote": "UK Egmont paperback (Matt Forbeck), owner has both the junior and adult novelizations. Replaces the earlier code, which belongs to the adult novelization.",
+  "barcodeDate": "2026-11-12",
+  "isbn10": "1405285680",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781405285681-M.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch6-49",
