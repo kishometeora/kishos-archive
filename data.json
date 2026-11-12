@@ -21232,7 +21232,21 @@
     "label": "Stock photo"
    }
   ],
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "9780722156667",
+  "isbn13": "9780722156667",
+  "isbn10": "0722156669",
+  "barcodeSources": [
+   "Amazon UK",
+   "Owner (identification)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "UK Sphere paperback (yellow cover), confirmed by owner as the Special Young Readers edition. Amazon UK lists it as Star Wars by George Lucas (1977/78); no publisher or page details found.",
+  "barcodeDate": "2026-11-12",
+  "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780722156667"
  },
  {
   "id": "ref-batch5-30",
