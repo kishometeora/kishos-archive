@@ -1,4 +1,4 @@
-const CACHE_NAME = "holocron-archive-v5";
+const CACHE_NAME = "holocron-archive-v6";
 
 self.addEventListener("install", () => { self.skipWaiting(); });
 
