@@ -22652,7 +22652,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -22700,7 +22700,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -22748,7 +22748,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -22796,7 +22796,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -22844,7 +22844,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -22892,7 +22892,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -22931,7 +22931,17 @@
   "inUniverseDate": "~25 BBY",
   "status": "Not started",
   "sequenceInYear": 4,
-  "editionYear": ""
+  "editionYear": "",
+  "barcode": "0078073004997",
+  "barcodeSources": [
+   "Owner (read from the book)"
+  ],
+  "barcodeIdConfidence": "Medium",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "Medium",
+  "barcodeReviewed": true,
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Owner read the code from the book.",
+  "barcodeDate": "2026-11-12"
  },
  {
   "id": "novel-batch6-29",
@@ -22978,7 +22988,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -23026,7 +23036,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
@@ -23074,7 +23084,7 @@
   "barcodeMatchConfidence": "Medium",
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
-  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; #7 is the only position that could take either code.",
+  "barcodeNote": "Publisher-line UPC (shared by the series), not an ISBN. Assigned by shelf scan order: the owner has Jedi Quest #1-10, and the scans show 11 such books, so one was a double scan; Quest #7 was confirmed from the book, which fixes the split.",
   "barcodeDate": "2026-11-12"
  },
  {
