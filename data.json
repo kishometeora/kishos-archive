@@ -215,7 +215,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542650",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542650&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-3",
@@ -484,7 +486,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491965",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491965&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-8",
@@ -706,7 +710,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542957",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542957&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-shadowhunter-1",
@@ -1415,7 +1421,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099493587",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099493587&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-truecolours-1",
@@ -1576,7 +1584,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099533238",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099533238&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-gambitstealth-1",
@@ -1684,7 +1694,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099533207",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099533207&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-wildspace-1",
@@ -2015,7 +2027,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099410584",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099410584&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-labyrinth-1",
@@ -2403,7 +2417,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492122",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492122&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-patternsofforce-1",
@@ -2903,7 +2919,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781848563377",
   "barcodeNote": "Not on Open Library; publisher, pages and date unknown",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781848563377-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-img_9524",
@@ -3392,7 +3410,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491972",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491972&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-img_9533",
@@ -15228,7 +15248,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553407587",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553407587-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-20",
@@ -15840,7 +15862,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780553404715",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-10"
+  "barcodeDate": "2026-11-10",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780553404715-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-31",
@@ -17539,7 +17563,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542667",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542667&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-62",
@@ -18204,7 +18230,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492030",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492030&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-74",
@@ -18369,7 +18397,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542704",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542704&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-77",
@@ -18590,7 +18620,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492047",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492047&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-81",
@@ -18699,7 +18731,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542728",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542728&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-83",
@@ -18752,7 +18786,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099492078",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099492078&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-84",
@@ -18861,7 +18897,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542780",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542780&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-86",
@@ -18969,7 +19007,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780345511157",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780345511157&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-88",
@@ -19022,7 +19062,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542742",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542742&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-89",
@@ -19075,7 +19117,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542735",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542735&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-90",
@@ -19128,7 +19172,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491187",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491187&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-91",
@@ -19236,7 +19282,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542759",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542759&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-93",
@@ -19289,7 +19337,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542865",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542865&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-94",
@@ -19454,7 +19504,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099542797",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099542797&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "novel-97",
@@ -19674,7 +19726,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780099491163",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9780099491163&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "comic-batch5-0",
@@ -21209,7 +21263,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780708823927",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9780708823927-L.jpg",
+  "coverCredit": "Cover: Open Library"
  },
  {
   "id": "novel-batch5-29",
@@ -21447,7 +21503,9 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9781647223816",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "coverLink": "https://books.google.com/books/content?vid=ISBN9781647223816&printsec=frontcover&img=1&zoom=2",
+  "coverCredit": "Cover: Google Books"
  },
  {
   "id": "comic-batch6-0",
