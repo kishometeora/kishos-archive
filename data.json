@@ -21750,26 +21750,7 @@
   "trivia": "This was the first volume of Dark Horse's long-running Clone Wars Adventures digest line, which would ultimately stretch to ten volumes between 2004 and 2007, each anthologizing quick, single-issue stories in the visual style of the animated micro-series.",
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
-  "sequenceInYear": 0,
-  "editionYear": 2004,
-  "barcode": "9781840239959",
-  "isbn13": "9781840239959",
-  "isbn10": "1840239956",
-  "publisher": "Titan Books Ltd",
-  "pages": 96,
-  "editionDate": "September 24, 2004",
-  "barcodeSources": [
-   "Open Library"
-  ],
-  "barcodeConfidence": "Medium",
-  "barcodeIdConfidence": "High",
-  "barcodeMatchConfidence": "Medium",
-  "barcodeReviewed": false,
-  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840239959",
-  "barcodeNote": "",
-  "barcodeDate": "2026-11-12",
-  "coverLink": "https://covers.openlibrary.org/b/isbn/9781840239959-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "sequenceInYear": 0
  },
  {
   "id": "comic-batch6-6",
@@ -21806,26 +21787,7 @@
   "trivia": "This volume is one of the higher-rated entries in the Clone Wars Adventures digest line on Goodreads, helped by the introduction of the fan-favorite Luminara/Barriss teacher-student dynamic before it was more fully explored in the animated series.",
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
-  "sequenceInYear": 0,
-  "editionYear": 2004,
-  "barcode": "9781840238402",
-  "isbn13": "9781840238402",
-  "isbn10": "1840238402",
-  "publisher": "Titan Books Ltd",
-  "pages": 96,
-  "editionDate": "December 24, 2004",
-  "barcodeSources": [
-   "Open Library"
-  ],
-  "barcodeConfidence": "Medium",
-  "barcodeIdConfidence": "High",
-  "barcodeMatchConfidence": "Medium",
-  "barcodeReviewed": false,
-  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840238402",
-  "barcodeNote": "",
-  "barcodeDate": "2026-11-12",
-  "coverLink": "https://covers.openlibrary.org/b/isbn/9781840238402-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "sequenceInYear": 0
  },
  {
   "id": "comic-batch6-7",
@@ -21863,7 +21825,26 @@
   "inUniverseDate": "~22-19 BBY",
   "status": "Not started",
   "sequenceInYear": 0,
-  "editionYear": ""
+  "editionYear": 2004,
+  "barcode": "9781840239959",
+  "isbn13": "9781840239959",
+  "isbn10": "1840239956",
+  "publisher": "Titan Books Ltd",
+  "pages": 96,
+  "editionDate": "September 24, 2004",
+  "coverLink": "https://covers.openlibrary.org/b/isbn/9781840239959-M.jpg",
+  "coverCredit": "Cover: Open Library",
+  "barcodeSources": [
+   "Open Library",
+   "Owner (identification)"
+  ],
+  "barcodeIdConfidence": "High",
+  "barcodeMatchConfidence": "High",
+  "barcodeConfidence": "High",
+  "barcodeReviewed": true,
+  "barcodeNote": "Volume 3 confirmed by the owner (the first scan of this code had been matched to Volume 1).",
+  "barcodeDate": "2026-11-12",
+  "barcodeSourceUrl": "https://openlibrary.org/isbn/9781840239959"
  },
  {
   "id": "comic-batch6-8",
