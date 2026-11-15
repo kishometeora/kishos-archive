@@ -22256,7 +22256,7 @@
   "barcodeSourceUrl": "https://www.amazon.co.uk/s?k=9780722156667",
   "locCase": 1,
   "locShelf": 6,
-  "locPos": 40,
+  "locPos": 41,
   "locConfidence": "Medium",
   "locDate": "2026-11-12"
  },
@@ -22302,7 +22302,12 @@
   "barcodeConfidence": "Medium",
   "barcodeReviewed": false,
   "barcodeNote": "Publisher UPC (shared by other titles from the same publisher line), not the ISBN. Matched by shelf position and the owner's identification (\"I believe\").",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 6,
+  "locPos": 39,
+  "locConfidence": "High",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch5-31",
@@ -22357,7 +22362,7 @@
   "coverCredit": "Cover: Open Library",
   "locCase": 1,
   "locShelf": 6,
-  "locPos": 39,
+  "locPos": 40,
   "locConfidence": "High",
   "locDate": "2026-11-12"
  },
@@ -22406,7 +22411,7 @@
   "barcodeDate": "2026-11-12",
   "locCase": 1,
   "locShelf": 6,
-  "locPos": 42,
+  "locPos": 43,
   "locConfidence": "Medium",
   "locDate": "2026-11-12"
  },
@@ -22459,7 +22464,7 @@
   "coverCredit": "Cover: Google Books",
   "locCase": 1,
   "locShelf": 6,
-  "locPos": 41,
+  "locPos": 42,
   "locConfidence": "High",
   "locDate": "2026-11-12"
  },
@@ -22516,7 +22521,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781848564060-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 1,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-1",
@@ -22569,7 +22579,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9780857687340",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 2,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-2",
@@ -22623,7 +22638,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781848568525-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 3,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-3",
@@ -22675,7 +22695,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848563346",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 4,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-4",
@@ -22727,7 +22752,12 @@
   "barcodeReviewed": false,
   "barcodeSourceUrl": "https://openlibrary.org/isbn/9781848567092",
   "barcodeNote": "",
-  "barcodeDate": "2026-11-12"
+  "barcodeDate": "2026-11-12",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 5,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "comic-batch6-5",
@@ -26034,7 +26064,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9781405276306-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 69,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-62",
@@ -26085,7 +26120,7 @@
   "barcodeDate": "2026-11-12",
   "locCase": 1,
   "locShelf": 7,
-  "locPos": 74,
+  "locPos": 76,
   "locConfidence": "Medium",
   "locDate": "2026-11-12"
  },
@@ -26137,7 +26172,12 @@
   "barcodeNote": "",
   "barcodeDate": "2026-11-12",
   "coverLink": "https://covers.openlibrary.org/b/isbn/9780843132717-M.jpg",
-  "coverCredit": "Cover: Open Library"
+  "coverCredit": "Cover: Open Library",
+  "locCase": 1,
+  "locShelf": 7,
+  "locPos": 70,
+  "locConfidence": "Medium",
+  "locDate": "2026-11-12"
  },
  {
   "id": "ref-batch6-64",
@@ -26188,7 +26228,7 @@
   "barcodeDate": "2026-11-12",
   "locCase": 1,
   "locShelf": 7,
-  "locPos": 69,
+  "locPos": 71,
   "locConfidence": "High",
   "locDate": "2026-11-12"
  },
@@ -26242,7 +26282,7 @@
   "barcodeDate": "2026-11-12",
   "locCase": 1,
   "locShelf": 7,
-  "locPos": 70,
+  "locPos": 72,
   "locConfidence": "High",
   "locDate": "2026-11-12"
  },
@@ -26296,7 +26336,7 @@
   "barcodeDate": "2026-11-12",
   "locCase": 1,
   "locShelf": 7,
-  "locPos": 71,
+  "locPos": 73,
   "locConfidence": "High",
   "locDate": "2026-11-12"
  },
@@ -26352,7 +26392,7 @@
   "coverCredit": "Cover: Open Library",
   "locCase": 1,
   "locShelf": 7,
-  "locPos": 72,
+  "locPos": 74,
   "locConfidence": "Medium",
   "locDate": "2026-11-12"
  },
@@ -26406,7 +26446,7 @@
   "barcodeDate": "2026-11-12",
   "locCase": 1,
   "locShelf": 7,
-  "locPos": 73,
+  "locPos": 75,
   "locConfidence": "High",
   "locDate": "2026-11-12"
  },
